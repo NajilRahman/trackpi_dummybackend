@@ -2,25 +2,34 @@
   "user": [
     {
       "name": "Alice Johnson",
-      "jobRole": "Software Engineer"
+      "jobRole": "Software Engineer",
+      "profileImage": "https://example.com/profiles/alice.jpg"
     },
     {
       "name": "Michael Smith",
-      "jobRole": "Product Manager"
+      "jobRole": "Product Manager",
+      "profileImage": "https://example.com/profiles/michael.jpg"
     },
     {
       "name": "Emily Davis",
-      "jobRole": "Graphic Designer"
+      "jobRole": "Graphic Designer",
+      "profileImage": "https://example.com/profiles/emily.jpg"
     },
     {
       "name": "John Doe",
-      "jobRole": "Data Scientist"
+      "jobRole": "Data Scientist",
+      "profileImage": "https://example.com/profiles/john.jpg"
     }
   ],
   "companies": [
     {
       "companyName": "Tech Innovators Inc.",
       "companyDescription": "A leading company in AI and software solutions.",
+      "logo": "https://example.com/logos/tech_innovators.png",
+      "brochure": {
+        "brochureUrl": "https://example.com/brochures/tech_innovators.pdf",
+        "description": "A detailed brochure on Tech Innovators' AI and software solutions."
+      },
       "products": [
         {
           "productName": "SmartAI Assistant",
@@ -37,6 +46,11 @@
     {
       "companyName": "EcoFriendly Solutions",
       "companyDescription": "Specializing in sustainable and eco-friendly products.",
+      "logo": "https://example.com/logos/ecofriendly_solutions.png",
+      "brochure": {
+        "brochureUrl": "https://example.com/brochures/ecofriendly_solutions.pdf",
+        "description": "Learn more about EcoFriendly Solutions' sustainable product lineup."
+      },
       "products": [
         {
           "productName": "EcoBottle",
@@ -53,6 +67,11 @@
     {
       "companyName": "Healthify Labs",
       "companyDescription": "Innovating healthcare solutions for a better tomorrow.",
+      "logo": "https://example.com/logos/healthify_labs.png",
+      "brochure": {
+        "brochureUrl": "https://example.com/brochures/healthify_labs.pdf",
+        "description": "Comprehensive insights into Healthify Labs' healthcare innovations."
+      },
       "products": [
         {
           "productName": "HealthMonitor Pro",
@@ -69,6 +88,11 @@
     {
       "companyName": "Future Mobility Co.",
       "companyDescription": "Revolutionizing the way we travel with electric and autonomous vehicles.",
+      "logo": "https://example.com/logos/future_mobility.png",
+      "brochure": {
+        "brochureUrl": "https://example.com/brochures/future_mobility.pdf",
+        "description": "Explore the cutting-edge technology of Future Mobility's vehicles."
+      },
       "products": [
         {
           "productName": "E-Car 2025",
@@ -99,6 +123,40 @@
     {
       "question": "What are the key features of the E-Car 2025?",
       "answer": "The E-Car 2025 features a 400-mile range, sleek design, and state-of-the-art electric vehicle technology."
+    }
+  ],
+  "posters": [
+    {
+      "title": "SmartAI Launch Event",
+      "image": "https://example.com/posters/smartai_launch.jpg",
+      "description": "Join us for the launch of the revolutionary SmartAI Assistant."
+    },
+    {
+      "title": "EcoBottle Campaign",
+      "image": "https://example.com/posters/ecobottle_campaign.jpg",
+      "description": "Promoting a sustainable future with EcoBottle."
+    },
+    {
+      "title": "Future Mobility Showcase",
+      "image": "https://example.com/posters/future_mobility.jpg",
+      "description": "Explore the latest in electric and autonomous vehicles."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Introduction to SmartAI",
+      "videoUrl": "https://example.com/videos/smartai_intro.mp4",
+      "description": "An overview of the features and capabilities of the SmartAI Assistant."
+    },
+    {
+      "title": "EcoFriendly Solutions Promo",
+      "videoUrl": "https://example.com/videos/ecofriendly_promo.mp4",
+      "description": "Discover the eco-friendly product lineup from EcoFriendly Solutions."
+    },
+    {
+      "title": "Future Mobility in Action",
+      "videoUrl": "https://example.com/videos/future_mobility.mp4",
+      "description": "See the latest innovations in electric and autonomous vehicles."
     }
   ]
 }
