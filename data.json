@@ -1,0 +1,104 @@
+{
+  "user": [
+    {
+      "name": "Alice Johnson",
+      "jobRole": "Software Engineer"
+    },
+    {
+      "name": "Michael Smith",
+      "jobRole": "Product Manager"
+    },
+    {
+      "name": "Emily Davis",
+      "jobRole": "Graphic Designer"
+    },
+    {
+      "name": "John Doe",
+      "jobRole": "Data Scientist"
+    }
+  ],
+  "companies": [
+    {
+      "companyName": "Tech Innovators Inc.",
+      "companyDescription": "A leading company in AI and software solutions.",
+      "products": [
+        {
+          "productName": "SmartAI Assistant",
+          "image": "https://example.com/smartai.jpg",
+          "description": "An AI-powered virtual assistant for home and office use."
+        },
+        {
+          "productName": "CodeMaster IDE",
+          "image": "https://example.com/codemaster.jpg",
+          "description": "A cutting-edge integrated development environment for developers."
+        }
+      ]
+    },
+    {
+      "companyName": "EcoFriendly Solutions",
+      "companyDescription": "Specializing in sustainable and eco-friendly products.",
+      "products": [
+        {
+          "productName": "EcoBottle",
+          "image": "https://example.com/ecobottle.jpg",
+          "description": "A reusable water bottle made from 100% recycled materials."
+        },
+        {
+          "productName": "Solar Charger Pro",
+          "image": "https://example.com/solarcharger.jpg",
+          "description": "A portable solar charger for smartphones and small gadgets."
+        }
+      ]
+    },
+    {
+      "companyName": "Healthify Labs",
+      "companyDescription": "Innovating healthcare solutions for a better tomorrow.",
+      "products": [
+        {
+          "productName": "HealthMonitor Pro",
+          "image": "https://example.com/healthmonitor.jpg",
+          "description": "A wearable device that tracks your health metrics in real-time."
+        },
+        {
+          "productName": "NutriPlanner App",
+          "image": "https://example.com/nutriplanner.jpg",
+          "description": "An app to help you plan and monitor your diet effectively."
+        }
+      ]
+    },
+    {
+      "companyName": "Future Mobility Co.",
+      "companyDescription": "Revolutionizing the way we travel with electric and autonomous vehicles.",
+      "products": [
+        {
+          "productName": "E-Car 2025",
+          "image": "https://example.com/ecar2025.jpg",
+          "description": "A sleek, fully electric car with a range of 400 miles per charge."
+        },
+        {
+          "productName": "SmartBike",
+          "image": "https://example.com/smartbike.jpg",
+          "description": "An electric bike with intelligent navigation and battery optimization."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the SmartAI Assistant?",
+      "answer": "The SmartAI Assistant is an AI-powered virtual assistant designed to help with daily tasks at home and in the office."
+    },
+    {
+      "question": "What products does EcoFriendly Solutions offer?",
+      "answer": "EcoFriendly Solutions offers eco-friendly products like the EcoBottle and the Solar Charger Pro."
+    },
+    {
+      "question": "What healthcare solutions does Healthify Labs provide?",
+      "answer": "Healthify Labs provides solutions like the HealthMonitor Pro wearable device and the NutriPlanner App for diet management."
+    },
+    {
+      "question": "What are the key features of the E-Car 2025?",
+      "answer": "The E-Car 2025 features a 400-mile range, sleek design, and state-of-the-art electric vehicle technology."
+    }
+  ]
+}
