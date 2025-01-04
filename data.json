@@ -1,162 +1,153 @@
+
 {
   "user": [
-    {
-      "name": "Alice Johnson",
-      "jobRole": "Software Engineer",
-      "profileImage": "https://example.com/profiles/alice.jpg"
-    },
-    {
-      "name": "Michael Smith",
-      "jobRole": "Product Manager",
-      "profileImage": "https://example.com/profiles/michael.jpg"
-    },
-    {
-      "name": "Emily Davis",
-      "jobRole": "Graphic Designer",
-      "profileImage": "https://example.com/profiles/emily.jpg"
-    },
-    {
-      "name": "John Doe",
-      "jobRole": "Data Scientist",
-      "profileImage": "https://example.com/profiles/john.jpg"
-    }
+    { "name": "Alice Johnson", "jobRole": "Software Engineer", "profileImage": "https://example.com/profiles/alice.jpg" },
+    { "name": "Michael Smith", "jobRole": "Product Manager", "profileImage": "https://example.com/profiles/michael.jpg" },
+    { "name": "Emily Davis", "jobRole": "Graphic Designer", "profileImage": "https://example.com/profiles/emily.jpg" },
+    { "name": "John Doe", "jobRole": "Data Scientist", "profileImage": "https://example.com/profiles/john.jpg" },
+    { "name": "Sophia Williams", "jobRole": "Marketing Specialist", "profileImage": "https://example.com/profiles/sophia.jpg" },
+    { "name": "James Brown", "jobRole": "Cloud Architect", "profileImage": "https://example.com/profiles/james.jpg" },
+    { "name": "Olivia Wilson", "jobRole": "UX Designer", "profileImage": "https://example.com/profiles/olivia.jpg" },
+    { "name": "Liam Martinez", "jobRole": "Machine Learning Engineer", "profileImage": "https://example.com/profiles/liam.jpg" },
+    { "name": "Isabella Thomas", "jobRole": "Content Strategist", "profileImage": "https://example.com/profiles/isabella.jpg" },
+    { "name": "Ethan Garcia", "jobRole": "Full Stack Developer", "profileImage": "https://example.com/profiles/ethan.jpg" }
   ],
   "companies": [
     {
       "companyName": "Tech Innovators Inc.",
       "companyDescription": "A leading company in AI and software solutions.",
       "logo": "https://example.com/logos/tech_innovators.png",
-      "brochure": {
-        "brochureUrl": "https://example.com/brochures/tech_innovators.pdf",
-        "description": "A detailed brochure on Tech Innovators' AI and software solutions."
-      },
+      "brochure": { "brochureUrl": "https://example.com/brochures/tech_innovators.pdf", "description": "AI and software solutions." },
       "products": [
-        {
-          "productName": "SmartAI Assistant",
-          "image": "https://example.com/smartai.jpg",
-          "description": "An AI-powered virtual assistant for home and office use."
-        },
-        {
-          "productName": "CodeMaster IDE",
-          "image": "https://example.com/codemaster.jpg",
-          "description": "A cutting-edge integrated development environment for developers."
-        }
+        { "productName": "SmartAI Assistant", "image": "https://example.com/smartai.jpg", "description": "An AI-powered assistant." },
+        { "productName": "CodeMaster IDE", "image": "https://example.com/codemaster.jpg", "description": "A modern IDE for developers." }
       ]
     },
     {
       "companyName": "EcoFriendly Solutions",
       "companyDescription": "Specializing in sustainable and eco-friendly products.",
       "logo": "https://example.com/logos/ecofriendly_solutions.png",
-      "brochure": {
-        "brochureUrl": "https://example.com/brochures/ecofriendly_solutions.pdf",
-        "description": "Learn more about EcoFriendly Solutions' sustainable product lineup."
-      },
+      "brochure": { "brochureUrl": "https://example.com/brochures/ecofriendly_solutions.pdf", "description": "Eco-friendly solutions." },
       "products": [
-        {
-          "productName": "EcoBottle",
-          "image": "https://example.com/ecobottle.jpg",
-          "description": "A reusable water bottle made from 100% recycled materials."
-        },
-        {
-          "productName": "Solar Charger Pro",
-          "image": "https://example.com/solarcharger.jpg",
-          "description": "A portable solar charger for smartphones and small gadgets."
-        }
+        { "productName": "EcoBottle", "image": "https://example.com/ecobottle.jpg", "description": "A reusable bottle." },
+        { "productName": "Solar Charger Pro", "image": "https://example.com/solarcharger.jpg", "description": "A portable solar charger." }
       ]
     },
     {
       "companyName": "Healthify Labs",
-      "companyDescription": "Innovating healthcare solutions for a better tomorrow.",
+      "companyDescription": "Innovating healthcare solutions.",
       "logo": "https://example.com/logos/healthify_labs.png",
-      "brochure": {
-        "brochureUrl": "https://example.com/brochures/healthify_labs.pdf",
-        "description": "Comprehensive insights into Healthify Labs' healthcare innovations."
-      },
+      "brochure": { "brochureUrl": "https://example.com/brochures/healthify_labs.pdf", "description": "Healthcare innovations." },
       "products": [
-        {
-          "productName": "HealthMonitor Pro",
-          "image": "https://example.com/healthmonitor.jpg",
-          "description": "A wearable device that tracks your health metrics in real-time."
-        },
-        {
-          "productName": "NutriPlanner App",
-          "image": "https://example.com/nutriplanner.jpg",
-          "description": "An app to help you plan and monitor your diet effectively."
-        }
+        { "productName": "HealthMonitor Pro", "image": "https://example.com/healthmonitor.jpg", "description": "A health tracking wearable." },
+        { "productName": "NutriPlanner App", "image": "https://example.com/nutriplanner.jpg", "description": "Diet planning app." }
       ]
     },
     {
       "companyName": "Future Mobility Co.",
-      "companyDescription": "Revolutionizing the way we travel with electric and autonomous vehicles.",
+      "companyDescription": "Revolutionizing transportation.",
       "logo": "https://example.com/logos/future_mobility.png",
-      "brochure": {
-        "brochureUrl": "https://example.com/brochures/future_mobility.pdf",
-        "description": "Explore the cutting-edge technology of Future Mobility's vehicles."
-      },
+      "brochure": { "brochureUrl": "https://example.com/brochures/future_mobility.pdf", "description": "Electric and autonomous vehicles." },
       "products": [
-        {
-          "productName": "E-Car 2025",
-          "image": "https://example.com/ecar2025.jpg",
-          "description": "A sleek, fully electric car with a range of 400 miles per charge."
-        },
-        {
-          "productName": "SmartBike",
-          "image": "https://example.com/smartbike.jpg",
-          "description": "An electric bike with intelligent navigation and battery optimization."
-        }
+        { "productName": "E-Car 2025", "image": "https://example.com/ecar2025.jpg", "description": "A sleek electric car." },
+        { "productName": "SmartBike", "image": "https://example.com/smartbike.jpg", "description": "An intelligent e-bike." }
+      ]
+    },
+    {
+      "companyName": "Green Home Innovations",
+      "companyDescription": "Innovations for a sustainable home.",
+      "logo": "https://example.com/logos/green_home.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/green_home.pdf", "description": "Sustainable home innovations." },
+      "products": [
+        { "productName": "EcoRoof Panels", "image": "https://example.com/ecoroof.jpg", "description": "Solar roof panels." },
+        { "productName": "SmartThermostat", "image": "https://example.com/smartthermostat.jpg", "description": "Energy-efficient thermostat." }
+      ]
+    },
+    {
+      "companyName": "Digital Creative Labs",
+      "companyDescription": "Creative digital solutions for businesses.",
+      "logo": "https://example.com/logos/digital_creative.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/digital_creative.pdf", "description": "Digital marketing tools." },
+      "products": [
+        { "productName": "SocialBoost", "image": "https://example.com/socialboost.jpg", "description": "Social media optimization." },
+        { "productName": "AdManager Pro", "image": "https://example.com/admanager.jpg", "description": "Advanced ad management." }
+      ]
+    },
+    {
+      "companyName": "Quantum Robotics",
+      "companyDescription": "Advancing robotics and automation.",
+      "logo": "https://example.com/logos/quantum_robotics.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/quantum_robotics.pdf", "description": "Robotics solutions." },
+      "products": [
+        { "productName": "RoboAssistant", "image": "https://example.com/roboassistant.jpg", "description": "Robotic assistant." },
+        { "productName": "AutoBot Cleaner", "image": "https://example.com/autobot.jpg", "description": "Automated cleaning robot." }
+      ]
+    },
+    {
+      "companyName": "EdTech Innovators",
+      "companyDescription": "Next-gen education technology.",
+      "logo": "https://example.com/logos/edtech_innovators.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/edtech_innovators.pdf", "description": "Education tools." },
+      "products": [
+        { "productName": "SmartLearn Platform", "image": "https://example.com/smartlearn.jpg", "description": "E-learning platform." },
+        { "productName": "EduVR Kit", "image": "https://example.com/eduvr.jpg", "description": "VR education tools." }
+      ]
+    },
+    {
+      "companyName": "FinTech Dynamics",
+      "companyDescription": "Empowering financial technology.",
+      "logo": "https://example.com/logos/fintech_dynamics.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/fintech_dynamics.pdf", "description": "Financial tech solutions." },
+      "products": [
+        { "productName": "PayEase", "image": "https://example.com/payease.jpg", "description": "Payment gateway system." },
+        { "productName": "InvestSmart", "image": "https://example.com/investsmart.jpg", "description": "Investment tracking app." }
+      ]
+    },
+    {
+      "companyName": "AdventureTech",
+      "companyDescription": "Technology for outdoor enthusiasts.",
+      "logo": "https://example.com/logos/adventure_tech.png",
+      "brochure": { "brochureUrl": "https://example.com/brochures/adventure_tech.pdf", "description": "Outdoor tech gear." },
+      "products": [
+        { "productName": "TrailNavigator", "image": "https://example.com/trailnavigator.jpg", "description": "Hiking GPS device." },
+        { "productName": "SolarTent", "image": "https://example.com/solartent.jpg", "description": "Solar-powered camping tent." }
       ]
     }
   ],
   "faq": [
-    {
-      "question": "What is the SmartAI Assistant?",
-      "answer": "The SmartAI Assistant is an AI-powered virtual assistant designed to help with daily tasks at home and in the office."
-    },
-    {
-      "question": "What products does EcoFriendly Solutions offer?",
-      "answer": "EcoFriendly Solutions offers eco-friendly products like the EcoBottle and the Solar Charger Pro."
-    },
-    {
-      "question": "What healthcare solutions does Healthify Labs provide?",
-      "answer": "Healthify Labs provides solutions like the HealthMonitor Pro wearable device and the NutriPlanner App for diet management."
-    },
-    {
-      "question": "What are the key features of the E-Car 2025?",
-      "answer": "The E-Car 2025 features a 400-mile range, sleek design, and state-of-the-art electric vehicle technology."
-    }
+    { "question": "What is the SmartAI Assistant?", "answer": "An AI-powered virtual assistant for daily tasks." },
+    { "question": "How does EcoBottle promote sustainability?", "answer": "EcoBottle is made from 100% recycled materials." },
+    { "question": "What are the features of the E-Car 2025?", "answer": "400-mile range and advanced technology." },
+    { "question": "What makes Solar Charger Pro unique?", "answer": "Portable and efficient solar charging." },
+    { "question": "How does NutriPlanner App help?", "answer": "It assists in planning and monitoring your diet." },
+    { "question": "What is SocialBoost used for?", "answer": "Optimizing social media campaigns." },
+    { "question": "What is the purpose of TrailNavigator?", "answer": "Providing accurate navigation for hikers." },
+    { "question": "What is RoboAssistant designed for?", "answer": "Robotic assistance in household chores." },
+    { "question": "What is EduVR Kit?", "answer": "A VR tool for immersive education." },
+    { "question": "How does PayEase streamline payments?", "answer": "Offers secure and fast payment processing." }
   ],
   "posters": [
-    {
-      "title": "SmartAI Launch Event",
-      "image": "https://example.com/posters/smartai_launch.jpg",
-      "description": "Join us for the launch of the revolutionary SmartAI Assistant."
-    },
-    {
-      "title": "EcoBottle Campaign",
-      "image": "https://example.com/posters/ecobottle_campaign.jpg",
-      "description": "Promoting a sustainable future with EcoBottle."
-    },
-    {
-      "title": "Future Mobility Showcase",
-      "image": "https://example.com/posters/future_mobility.jpg",
-      "description": "Explore the latest in electric and autonomous vehicles."
-    }
+    { "title": "SmartAI Launch", "image": "https://example.com/posters/smartai_launch.jpg", "description": "SmartAI Assistant launch event." },
+    { "title": "EcoFriendly Campaign", "image": "https://example.com/posters/ecofriendly_campaign.jpg", "description": "Promoting EcoBottle and Solar Charger Pro." },
+    { "title": "Future Mobility Expo", "image": "https://example.com/posters/future_mobility.jpg", "description": "Showcase of E-Car 2025." },
+    { "title": "TrailNavigator Unveiled", "image": "https://example.com/posters/trailnavigator.jpg", "description": "AdventureTech product demo." },
+    { "title": "SmartLearn Debut", "image": "https://example.com/posters/smartlearn.jpg", "description": "EdTech Innovators' platform launch." },
+    { "title": "Quantum Robotics Launch", "image": "https://example.com/posters/quantum_robotics.jpg", "description": "New RoboAssistant series launch." },
+    { "title": "Solar Tent Presentation", "image": "https://example.com/posters/solartent.jpg", "description": "AdventureTech Solar Tent showcase." },
+    { "title": "NutriPlanner Webinar", "image": "https://example.com/posters/nutriplanner.jpg", "description": "Learn more about Healthify Labs." },
+    { "title": "PayEase Demo", "image": "https://example.com/posters/payease.jpg", "description": "Live demo of PayEase." },
+    { "title": "EduVR Experience", "image": "https://example.com/posters/eduvr.jpg", "description": "Immersive VR in education." }
   ],
   "videos": [
-    {
-      "title": "Introduction to SmartAI",
-      "videoUrl": "https://example.com/videos/smartai_intro.mp4",
-      "description": "An overview of the features and capabilities of the SmartAI Assistant."
-    },
-    {
-      "title": "EcoFriendly Solutions Promo",
-      "videoUrl": "https://example.com/videos/ecofriendly_promo.mp4",
-      "description": "Discover the eco-friendly product lineup from EcoFriendly Solutions."
-    },
-    {
-      "title": "Future Mobility in Action",
-      "videoUrl": "https://example.com/videos/future_mobility.mp4",
-      "description": "See the latest innovations in electric and autonomous vehicles."
-    }
+    { "title": "Introduction to SmartAI", "videoUrl": "https://example.com/videos/smartai_intro.mp4", "description": "Overview of SmartAI Assistant." },
+    { "title": "EcoBottle Explained", "videoUrl": "https://example.com/videos/ecobottle_intro.mp4", "description": "Sustainability with EcoBottle." },
+    { "title": "E-Car 2025 in Action", "videoUrl": "https://example.com/videos/ecar2025.mp4", "description": "Future Mobility's E-Car demo." },
+    { "title": "NutriPlanner Demo", "videoUrl": "https://example.com/videos/nutriplanner.mp4", "description": "Healthify Labs' diet app walkthrough." },
+    { "title": "SocialBoost Overview", "videoUrl": "https://example.com/videos/socialboost.mp4", "description": "Boost social campaigns effectively." },
+    { "title": "RoboAssistant Showcase", "videoUrl": "https://example.com/videos/roboassistant.mp4", "description": "Quantum Robotics' assistant." },
+    { "title": "Solar Charger Insights", "videoUrl": "https://example.com/videos/solarcharger.mp4", "description": "EcoFriendly portable charger." },
+    { "title": "EduVR Explained", "videoUrl": "https://example.com/videos/eduvr.mp4", "description": "EdTech Innovators' VR tool." },
+    { "title": "PayEase Features", "videoUrl": "https://example.com/videos/payease.mp4", "description": "Introduction to PayEase." },
+    { "title": "TrailNavigator Demo", "videoUrl": "https://example.com/videos/trailnavigator.mp4", "description": "Hiking GPS from AdventureTech." }
   ]
 }
