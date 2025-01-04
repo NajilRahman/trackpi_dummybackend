@@ -1,29 +1,29 @@
 {
-  "user": 
+  "user": [
       {
           "name": "Alice Johnson",
           "jobRole": "Software Engineer",
-          "profileImage": "https://example.com/profiles/alice.jpg"
+          "profileImage": "https://images.unsplash.com/photo-1567368190-1d91ec8ea09d"
       }
-  ,
+  ],
   "companies": [
       {
           "companyName": "Company 1",
           "companyDescription": "Description for Company 1.",
-          "logo": "https://example.com/logos/company_1.png",
+          "logo": "https://via.placeholder.com/150?text=Company+1",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_1.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+1",
               "description": "Brochure for Company 1."
           },
           "products": [
               {
                   "productName": "Product 1_1",
-                  "image": "https://example.com/products/product_1_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+1_1",
                   "description": "Description for Product 1_1."
               },
               {
                   "productName": "Product 1_2",
-                  "image": "https://example.com/products/product_1_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+1_2",
                   "description": "Description for Product 1_2."
               }
           ]
@@ -31,20 +31,20 @@
       {
           "companyName": "Company 2",
           "companyDescription": "Description for Company 2.",
-          "logo": "https://example.com/logos/company_2.png",
+          "logo": "https://via.placeholder.com/150?text=Company+2",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_2.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+2",
               "description": "Brochure for Company 2."
           },
           "products": [
               {
                   "productName": "Product 2_1",
-                  "image": "https://example.com/products/product_2_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+2_1",
                   "description": "Description for Product 2_1."
               },
               {
                   "productName": "Product 2_2",
-                  "image": "https://example.com/products/product_2_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+2_2",
                   "description": "Description for Product 2_2."
               }
           ]
@@ -52,20 +52,20 @@
       {
           "companyName": "Company 3",
           "companyDescription": "Description for Company 3.",
-          "logo": "https://example.com/logos/company_3.png",
+          "logo": "https://via.placeholder.com/150?text=Company+3",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_3.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+3",
               "description": "Brochure for Company 3."
           },
           "products": [
               {
                   "productName": "Product 3_1",
-                  "image": "https://example.com/products/product_3_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+3_1",
                   "description": "Description for Product 3_1."
               },
               {
                   "productName": "Product 3_2",
-                  "image": "https://example.com/products/product_3_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+3_2",
                   "description": "Description for Product 3_2."
               }
           ]
@@ -73,20 +73,20 @@
       {
           "companyName": "Company 4",
           "companyDescription": "Description for Company 4.",
-          "logo": "https://example.com/logos/company_4.png",
+          "logo": "https://via.placeholder.com/150?text=Company+4",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_4.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+4",
               "description": "Brochure for Company 4."
           },
           "products": [
               {
                   "productName": "Product 4_1",
-                  "image": "https://example.com/products/product_4_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+4_1",
                   "description": "Description for Product 4_1."
               },
               {
                   "productName": "Product 4_2",
-                  "image": "https://example.com/products/product_4_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+4_2",
                   "description": "Description for Product 4_2."
               }
           ]
@@ -94,20 +94,20 @@
       {
           "companyName": "Company 5",
           "companyDescription": "Description for Company 5.",
-          "logo": "https://example.com/logos/company_5.png",
+          "logo": "https://via.placeholder.com/150?text=Company+5",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_5.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+5",
               "description": "Brochure for Company 5."
           },
           "products": [
               {
                   "productName": "Product 5_1",
-                  "image": "https://example.com/products/product_5_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+5_1",
                   "description": "Description for Product 5_1."
               },
               {
                   "productName": "Product 5_2",
-                  "image": "https://example.com/products/product_5_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+5_2",
                   "description": "Description for Product 5_2."
               }
           ]
@@ -115,20 +115,20 @@
       {
           "companyName": "Company 6",
           "companyDescription": "Description for Company 6.",
-          "logo": "https://example.com/logos/company_6.png",
+          "logo": "https://via.placeholder.com/150?text=Company+6",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_6.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+6",
               "description": "Brochure for Company 6."
           },
           "products": [
               {
                   "productName": "Product 6_1",
-                  "image": "https://example.com/products/product_6_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+6_1",
                   "description": "Description for Product 6_1."
               },
               {
                   "productName": "Product 6_2",
-                  "image": "https://example.com/products/product_6_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+6_2",
                   "description": "Description for Product 6_2."
               }
           ]
@@ -136,20 +136,20 @@
       {
           "companyName": "Company 7",
           "companyDescription": "Description for Company 7.",
-          "logo": "https://example.com/logos/company_7.png",
+          "logo": "https://via.placeholder.com/150?text=Company+7",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_7.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+7",
               "description": "Brochure for Company 7."
           },
           "products": [
               {
                   "productName": "Product 7_1",
-                  "image": "https://example.com/products/product_7_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+7_1",
                   "description": "Description for Product 7_1."
               },
               {
                   "productName": "Product 7_2",
-                  "image": "https://example.com/products/product_7_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+7_2",
                   "description": "Description for Product 7_2."
               }
           ]
@@ -157,20 +157,20 @@
       {
           "companyName": "Company 8",
           "companyDescription": "Description for Company 8.",
-          "logo": "https://example.com/logos/company_8.png",
+          "logo": "https://via.placeholder.com/150?text=Company+8",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_8.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+8",
               "description": "Brochure for Company 8."
           },
           "products": [
               {
                   "productName": "Product 8_1",
-                  "image": "https://example.com/products/product_8_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+8_1",
                   "description": "Description for Product 8_1."
               },
               {
                   "productName": "Product 8_2",
-                  "image": "https://example.com/products/product_8_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+8_2",
                   "description": "Description for Product 8_2."
               }
           ]
@@ -178,20 +178,20 @@
       {
           "companyName": "Company 9",
           "companyDescription": "Description for Company 9.",
-          "logo": "https://example.com/logos/company_9.png",
+          "logo": "https://via.placeholder.com/150?text=Company+9",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_9.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+9",
               "description": "Brochure for Company 9."
           },
           "products": [
               {
                   "productName": "Product 9_1",
-                  "image": "https://example.com/products/product_9_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+9_1",
                   "description": "Description for Product 9_1."
               },
               {
                   "productName": "Product 9_2",
-                  "image": "https://example.com/products/product_9_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+9_2",
                   "description": "Description for Product 9_2."
               }
           ]
@@ -199,20 +199,20 @@
       {
           "companyName": "Company 10",
           "companyDescription": "Description for Company 10.",
-          "logo": "https://example.com/logos/company_10.png",
+          "logo": "https://via.placeholder.com/150?text=Company+10",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_10.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+10",
               "description": "Brochure for Company 10."
           },
           "products": [
               {
                   "productName": "Product 10_1",
-                  "image": "https://example.com/products/product_10_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+10_1",
                   "description": "Description for Product 10_1."
               },
               {
                   "productName": "Product 10_2",
-                  "image": "https://example.com/products/product_10_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+10_2",
                   "description": "Description for Product 10_2."
               }
           ]
@@ -220,20 +220,20 @@
       {
           "companyName": "Company 11",
           "companyDescription": "Description for Company 11.",
-          "logo": "https://example.com/logos/company_11.png",
+          "logo": "https://via.placeholder.com/150?text=Company+11",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_11.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+11",
               "description": "Brochure for Company 11."
           },
           "products": [
               {
                   "productName": "Product 11_1",
-                  "image": "https://example.com/products/product_11_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+11_1",
                   "description": "Description for Product 11_1."
               },
               {
                   "productName": "Product 11_2",
-                  "image": "https://example.com/products/product_11_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+11_2",
                   "description": "Description for Product 11_2."
               }
           ]
@@ -241,20 +241,20 @@
       {
           "companyName": "Company 12",
           "companyDescription": "Description for Company 12.",
-          "logo": "https://example.com/logos/company_12.png",
+          "logo": "https://via.placeholder.com/150?text=Company+12",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_12.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+12",
               "description": "Brochure for Company 12."
           },
           "products": [
               {
                   "productName": "Product 12_1",
-                  "image": "https://example.com/products/product_12_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+12_1",
                   "description": "Description for Product 12_1."
               },
               {
                   "productName": "Product 12_2",
-                  "image": "https://example.com/products/product_12_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+12_2",
                   "description": "Description for Product 12_2."
               }
           ]
@@ -262,20 +262,20 @@
       {
           "companyName": "Company 13",
           "companyDescription": "Description for Company 13.",
-          "logo": "https://example.com/logos/company_13.png",
+          "logo": "https://via.placeholder.com/150?text=Company+13",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_13.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+13",
               "description": "Brochure for Company 13."
           },
           "products": [
               {
                   "productName": "Product 13_1",
-                  "image": "https://example.com/products/product_13_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+13_1",
                   "description": "Description for Product 13_1."
               },
               {
                   "productName": "Product 13_2",
-                  "image": "https://example.com/products/product_13_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+13_2",
                   "description": "Description for Product 13_2."
               }
           ]
@@ -283,20 +283,20 @@
       {
           "companyName": "Company 14",
           "companyDescription": "Description for Company 14.",
-          "logo": "https://example.com/logos/company_14.png",
+          "logo": "https://via.placeholder.com/150?text=Company+14",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_14.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+14",
               "description": "Brochure for Company 14."
           },
           "products": [
               {
                   "productName": "Product 14_1",
-                  "image": "https://example.com/products/product_14_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+14_1",
                   "description": "Description for Product 14_1."
               },
               {
                   "productName": "Product 14_2",
-                  "image": "https://example.com/products/product_14_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+14_2",
                   "description": "Description for Product 14_2."
               }
           ]
@@ -304,20 +304,20 @@
       {
           "companyName": "Company 15",
           "companyDescription": "Description for Company 15.",
-          "logo": "https://example.com/logos/company_15.png",
+          "logo": "https://via.placeholder.com/150?text=Company+15",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_15.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+15",
               "description": "Brochure for Company 15."
           },
           "products": [
               {
                   "productName": "Product 15_1",
-                  "image": "https://example.com/products/product_15_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+15_1",
                   "description": "Description for Product 15_1."
               },
               {
                   "productName": "Product 15_2",
-                  "image": "https://example.com/products/product_15_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+15_2",
                   "description": "Description for Product 15_2."
               }
           ]
@@ -325,20 +325,20 @@
       {
           "companyName": "Company 16",
           "companyDescription": "Description for Company 16.",
-          "logo": "https://example.com/logos/company_16.png",
+          "logo": "https://via.placeholder.com/150?text=Company+16",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_16.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+16",
               "description": "Brochure for Company 16."
           },
           "products": [
               {
                   "productName": "Product 16_1",
-                  "image": "https://example.com/products/product_16_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+16_1",
                   "description": "Description for Product 16_1."
               },
               {
                   "productName": "Product 16_2",
-                  "image": "https://example.com/products/product_16_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+16_2",
                   "description": "Description for Product 16_2."
               }
           ]
@@ -346,20 +346,20 @@
       {
           "companyName": "Company 17",
           "companyDescription": "Description for Company 17.",
-          "logo": "https://example.com/logos/company_17.png",
+          "logo": "https://via.placeholder.com/150?text=Company+17",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_17.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+17",
               "description": "Brochure for Company 17."
           },
           "products": [
               {
                   "productName": "Product 17_1",
-                  "image": "https://example.com/products/product_17_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+17_1",
                   "description": "Description for Product 17_1."
               },
               {
                   "productName": "Product 17_2",
-                  "image": "https://example.com/products/product_17_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+17_2",
                   "description": "Description for Product 17_2."
               }
           ]
@@ -367,20 +367,20 @@
       {
           "companyName": "Company 18",
           "companyDescription": "Description for Company 18.",
-          "logo": "https://example.com/logos/company_18.png",
+          "logo": "https://via.placeholder.com/150?text=Company+18",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_18.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+18",
               "description": "Brochure for Company 18."
           },
           "products": [
               {
                   "productName": "Product 18_1",
-                  "image": "https://example.com/products/product_18_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+18_1",
                   "description": "Description for Product 18_1."
               },
               {
                   "productName": "Product 18_2",
-                  "image": "https://example.com/products/product_18_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+18_2",
                   "description": "Description for Product 18_2."
               }
           ]
@@ -388,20 +388,20 @@
       {
           "companyName": "Company 19",
           "companyDescription": "Description for Company 19.",
-          "logo": "https://example.com/logos/company_19.png",
+          "logo": "https://via.placeholder.com/150?text=Company+19",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_19.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+19",
               "description": "Brochure for Company 19."
           },
           "products": [
               {
                   "productName": "Product 19_1",
-                  "image": "https://example.com/products/product_19_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+19_1",
                   "description": "Description for Product 19_1."
               },
               {
                   "productName": "Product 19_2",
-                  "image": "https://example.com/products/product_19_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+19_2",
                   "description": "Description for Product 19_2."
               }
           ]
@@ -409,20 +409,20 @@
       {
           "companyName": "Company 20",
           "companyDescription": "Description for Company 20.",
-          "logo": "https://example.com/logos/company_20.png",
+          "logo": "https://via.placeholder.com/150?text=Company+20",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_20.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+20",
               "description": "Brochure for Company 20."
           },
           "products": [
               {
                   "productName": "Product 20_1",
-                  "image": "https://example.com/products/product_20_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+20_1",
                   "description": "Description for Product 20_1."
               },
               {
                   "productName": "Product 20_2",
-                  "image": "https://example.com/products/product_20_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+20_2",
                   "description": "Description for Product 20_2."
               }
           ]
@@ -430,20 +430,20 @@
       {
           "companyName": "Company 21",
           "companyDescription": "Description for Company 21.",
-          "logo": "https://example.com/logos/company_21.png",
+          "logo": "https://via.placeholder.com/150?text=Company+21",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_21.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+21",
               "description": "Brochure for Company 21."
           },
           "products": [
               {
                   "productName": "Product 21_1",
-                  "image": "https://example.com/products/product_21_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+21_1",
                   "description": "Description for Product 21_1."
               },
               {
                   "productName": "Product 21_2",
-                  "image": "https://example.com/products/product_21_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+21_2",
                   "description": "Description for Product 21_2."
               }
           ]
@@ -451,20 +451,20 @@
       {
           "companyName": "Company 22",
           "companyDescription": "Description for Company 22.",
-          "logo": "https://example.com/logos/company_22.png",
+          "logo": "https://via.placeholder.com/150?text=Company+22",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_22.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+22",
               "description": "Brochure for Company 22."
           },
           "products": [
               {
                   "productName": "Product 22_1",
-                  "image": "https://example.com/products/product_22_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+22_1",
                   "description": "Description for Product 22_1."
               },
               {
                   "productName": "Product 22_2",
-                  "image": "https://example.com/products/product_22_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+22_2",
                   "description": "Description for Product 22_2."
               }
           ]
@@ -472,20 +472,20 @@
       {
           "companyName": "Company 23",
           "companyDescription": "Description for Company 23.",
-          "logo": "https://example.com/logos/company_23.png",
+          "logo": "https://via.placeholder.com/150?text=Company+23",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_23.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+23",
               "description": "Brochure for Company 23."
           },
           "products": [
               {
                   "productName": "Product 23_1",
-                  "image": "https://example.com/products/product_23_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+23_1",
                   "description": "Description for Product 23_1."
               },
               {
                   "productName": "Product 23_2",
-                  "image": "https://example.com/products/product_23_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+23_2",
                   "description": "Description for Product 23_2."
               }
           ]
@@ -493,20 +493,20 @@
       {
           "companyName": "Company 24",
           "companyDescription": "Description for Company 24.",
-          "logo": "https://example.com/logos/company_24.png",
+          "logo": "https://via.placeholder.com/150?text=Company+24",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_24.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+24",
               "description": "Brochure for Company 24."
           },
           "products": [
               {
                   "productName": "Product 24_1",
-                  "image": "https://example.com/products/product_24_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+24_1",
                   "description": "Description for Product 24_1."
               },
               {
                   "productName": "Product 24_2",
-                  "image": "https://example.com/products/product_24_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+24_2",
                   "description": "Description for Product 24_2."
               }
           ]
@@ -514,20 +514,20 @@
       {
           "companyName": "Company 25",
           "companyDescription": "Description for Company 25.",
-          "logo": "https://example.com/logos/company_25.png",
+          "logo": "https://via.placeholder.com/150?text=Company+25",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_25.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+25",
               "description": "Brochure for Company 25."
           },
           "products": [
               {
                   "productName": "Product 25_1",
-                  "image": "https://example.com/products/product_25_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+25_1",
                   "description": "Description for Product 25_1."
               },
               {
                   "productName": "Product 25_2",
-                  "image": "https://example.com/products/product_25_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+25_2",
                   "description": "Description for Product 25_2."
               }
           ]
@@ -535,20 +535,20 @@
       {
           "companyName": "Company 26",
           "companyDescription": "Description for Company 26.",
-          "logo": "https://example.com/logos/company_26.png",
+          "logo": "https://via.placeholder.com/150?text=Company+26",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_26.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+26",
               "description": "Brochure for Company 26."
           },
           "products": [
               {
                   "productName": "Product 26_1",
-                  "image": "https://example.com/products/product_26_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+26_1",
                   "description": "Description for Product 26_1."
               },
               {
                   "productName": "Product 26_2",
-                  "image": "https://example.com/products/product_26_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+26_2",
                   "description": "Description for Product 26_2."
               }
           ]
@@ -556,20 +556,20 @@
       {
           "companyName": "Company 27",
           "companyDescription": "Description for Company 27.",
-          "logo": "https://example.com/logos/company_27.png",
+          "logo": "https://via.placeholder.com/150?text=Company+27",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_27.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+27",
               "description": "Brochure for Company 27."
           },
           "products": [
               {
                   "productName": "Product 27_1",
-                  "image": "https://example.com/products/product_27_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+27_1",
                   "description": "Description for Product 27_1."
               },
               {
                   "productName": "Product 27_2",
-                  "image": "https://example.com/products/product_27_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+27_2",
                   "description": "Description for Product 27_2."
               }
           ]
@@ -577,20 +577,20 @@
       {
           "companyName": "Company 28",
           "companyDescription": "Description for Company 28.",
-          "logo": "https://example.com/logos/company_28.png",
+          "logo": "https://via.placeholder.com/150?text=Company+28",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_28.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+28",
               "description": "Brochure for Company 28."
           },
           "products": [
               {
                   "productName": "Product 28_1",
-                  "image": "https://example.com/products/product_28_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+28_1",
                   "description": "Description for Product 28_1."
               },
               {
                   "productName": "Product 28_2",
-                  "image": "https://example.com/products/product_28_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+28_2",
                   "description": "Description for Product 28_2."
               }
           ]
@@ -598,20 +598,20 @@
       {
           "companyName": "Company 29",
           "companyDescription": "Description for Company 29.",
-          "logo": "https://example.com/logos/company_29.png",
+          "logo": "https://via.placeholder.com/150?text=Company+29",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_29.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+29",
               "description": "Brochure for Company 29."
           },
           "products": [
               {
                   "productName": "Product 29_1",
-                  "image": "https://example.com/products/product_29_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+29_1",
                   "description": "Description for Product 29_1."
               },
               {
                   "productName": "Product 29_2",
-                  "image": "https://example.com/products/product_29_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+29_2",
                   "description": "Description for Product 29_2."
               }
           ]
@@ -619,20 +619,20 @@
       {
           "companyName": "Company 30",
           "companyDescription": "Description for Company 30.",
-          "logo": "https://example.com/logos/company_30.png",
+          "logo": "https://via.placeholder.com/150?text=Company+30",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_30.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+30",
               "description": "Brochure for Company 30."
           },
           "products": [
               {
                   "productName": "Product 30_1",
-                  "image": "https://example.com/products/product_30_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+30_1",
                   "description": "Description for Product 30_1."
               },
               {
                   "productName": "Product 30_2",
-                  "image": "https://example.com/products/product_30_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+30_2",
                   "description": "Description for Product 30_2."
               }
           ]
@@ -640,20 +640,20 @@
       {
           "companyName": "Company 31",
           "companyDescription": "Description for Company 31.",
-          "logo": "https://example.com/logos/company_31.png",
+          "logo": "https://via.placeholder.com/150?text=Company+31",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_31.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+31",
               "description": "Brochure for Company 31."
           },
           "products": [
               {
                   "productName": "Product 31_1",
-                  "image": "https://example.com/products/product_31_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+31_1",
                   "description": "Description for Product 31_1."
               },
               {
                   "productName": "Product 31_2",
-                  "image": "https://example.com/products/product_31_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+31_2",
                   "description": "Description for Product 31_2."
               }
           ]
@@ -661,20 +661,20 @@
       {
           "companyName": "Company 32",
           "companyDescription": "Description for Company 32.",
-          "logo": "https://example.com/logos/company_32.png",
+          "logo": "https://via.placeholder.com/150?text=Company+32",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_32.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+32",
               "description": "Brochure for Company 32."
           },
           "products": [
               {
                   "productName": "Product 32_1",
-                  "image": "https://example.com/products/product_32_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+32_1",
                   "description": "Description for Product 32_1."
               },
               {
                   "productName": "Product 32_2",
-                  "image": "https://example.com/products/product_32_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+32_2",
                   "description": "Description for Product 32_2."
               }
           ]
@@ -682,20 +682,20 @@
       {
           "companyName": "Company 33",
           "companyDescription": "Description for Company 33.",
-          "logo": "https://example.com/logos/company_33.png",
+          "logo": "https://via.placeholder.com/150?text=Company+33",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_33.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+33",
               "description": "Brochure for Company 33."
           },
           "products": [
               {
                   "productName": "Product 33_1",
-                  "image": "https://example.com/products/product_33_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+33_1",
                   "description": "Description for Product 33_1."
               },
               {
                   "productName": "Product 33_2",
-                  "image": "https://example.com/products/product_33_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+33_2",
                   "description": "Description for Product 33_2."
               }
           ]
@@ -703,20 +703,20 @@
       {
           "companyName": "Company 34",
           "companyDescription": "Description for Company 34.",
-          "logo": "https://example.com/logos/company_34.png",
+          "logo": "https://via.placeholder.com/150?text=Company+34",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_34.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+34",
               "description": "Brochure for Company 34."
           },
           "products": [
               {
                   "productName": "Product 34_1",
-                  "image": "https://example.com/products/product_34_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+34_1",
                   "description": "Description for Product 34_1."
               },
               {
                   "productName": "Product 34_2",
-                  "image": "https://example.com/products/product_34_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+34_2",
                   "description": "Description for Product 34_2."
               }
           ]
@@ -724,20 +724,20 @@
       {
           "companyName": "Company 35",
           "companyDescription": "Description for Company 35.",
-          "logo": "https://example.com/logos/company_35.png",
+          "logo": "https://via.placeholder.com/150?text=Company+35",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_35.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+35",
               "description": "Brochure for Company 35."
           },
           "products": [
               {
                   "productName": "Product 35_1",
-                  "image": "https://example.com/products/product_35_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+35_1",
                   "description": "Description for Product 35_1."
               },
               {
                   "productName": "Product 35_2",
-                  "image": "https://example.com/products/product_35_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+35_2",
                   "description": "Description for Product 35_2."
               }
           ]
@@ -745,20 +745,20 @@
       {
           "companyName": "Company 36",
           "companyDescription": "Description for Company 36.",
-          "logo": "https://example.com/logos/company_36.png",
+          "logo": "https://via.placeholder.com/150?text=Company+36",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_36.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+36",
               "description": "Brochure for Company 36."
           },
           "products": [
               {
                   "productName": "Product 36_1",
-                  "image": "https://example.com/products/product_36_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+36_1",
                   "description": "Description for Product 36_1."
               },
               {
                   "productName": "Product 36_2",
-                  "image": "https://example.com/products/product_36_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+36_2",
                   "description": "Description for Product 36_2."
               }
           ]
@@ -766,20 +766,20 @@
       {
           "companyName": "Company 37",
           "companyDescription": "Description for Company 37.",
-          "logo": "https://example.com/logos/company_37.png",
+          "logo": "https://via.placeholder.com/150?text=Company+37",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_37.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+37",
               "description": "Brochure for Company 37."
           },
           "products": [
               {
                   "productName": "Product 37_1",
-                  "image": "https://example.com/products/product_37_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+37_1",
                   "description": "Description for Product 37_1."
               },
               {
                   "productName": "Product 37_2",
-                  "image": "https://example.com/products/product_37_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+37_2",
                   "description": "Description for Product 37_2."
               }
           ]
@@ -787,20 +787,20 @@
       {
           "companyName": "Company 38",
           "companyDescription": "Description for Company 38.",
-          "logo": "https://example.com/logos/company_38.png",
+          "logo": "https://via.placeholder.com/150?text=Company+38",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_38.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+38",
               "description": "Brochure for Company 38."
           },
           "products": [
               {
                   "productName": "Product 38_1",
-                  "image": "https://example.com/products/product_38_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+38_1",
                   "description": "Description for Product 38_1."
               },
               {
                   "productName": "Product 38_2",
-                  "image": "https://example.com/products/product_38_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+38_2",
                   "description": "Description for Product 38_2."
               }
           ]
@@ -808,20 +808,20 @@
       {
           "companyName": "Company 39",
           "companyDescription": "Description for Company 39.",
-          "logo": "https://example.com/logos/company_39.png",
+          "logo": "https://via.placeholder.com/150?text=Company+39",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_39.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+39",
               "description": "Brochure for Company 39."
           },
           "products": [
               {
                   "productName": "Product 39_1",
-                  "image": "https://example.com/products/product_39_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+39_1",
                   "description": "Description for Product 39_1."
               },
               {
                   "productName": "Product 39_2",
-                  "image": "https://example.com/products/product_39_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+39_2",
                   "description": "Description for Product 39_2."
               }
           ]
@@ -829,20 +829,20 @@
       {
           "companyName": "Company 40",
           "companyDescription": "Description for Company 40.",
-          "logo": "https://example.com/logos/company_40.png",
+          "logo": "https://via.placeholder.com/150?text=Company+40",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_40.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+40",
               "description": "Brochure for Company 40."
           },
           "products": [
               {
                   "productName": "Product 40_1",
-                  "image": "https://example.com/products/product_40_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+40_1",
                   "description": "Description for Product 40_1."
               },
               {
                   "productName": "Product 40_2",
-                  "image": "https://example.com/products/product_40_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+40_2",
                   "description": "Description for Product 40_2."
               }
           ]
@@ -850,20 +850,20 @@
       {
           "companyName": "Company 41",
           "companyDescription": "Description for Company 41.",
-          "logo": "https://example.com/logos/company_41.png",
+          "logo": "https://via.placeholder.com/150?text=Company+41",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_41.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+41",
               "description": "Brochure for Company 41."
           },
           "products": [
               {
                   "productName": "Product 41_1",
-                  "image": "https://example.com/products/product_41_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+41_1",
                   "description": "Description for Product 41_1."
               },
               {
                   "productName": "Product 41_2",
-                  "image": "https://example.com/products/product_41_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+41_2",
                   "description": "Description for Product 41_2."
               }
           ]
@@ -871,20 +871,20 @@
       {
           "companyName": "Company 42",
           "companyDescription": "Description for Company 42.",
-          "logo": "https://example.com/logos/company_42.png",
+          "logo": "https://via.placeholder.com/150?text=Company+42",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_42.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+42",
               "description": "Brochure for Company 42."
           },
           "products": [
               {
                   "productName": "Product 42_1",
-                  "image": "https://example.com/products/product_42_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+42_1",
                   "description": "Description for Product 42_1."
               },
               {
                   "productName": "Product 42_2",
-                  "image": "https://example.com/products/product_42_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+42_2",
                   "description": "Description for Product 42_2."
               }
           ]
@@ -892,20 +892,20 @@
       {
           "companyName": "Company 43",
           "companyDescription": "Description for Company 43.",
-          "logo": "https://example.com/logos/company_43.png",
+          "logo": "https://via.placeholder.com/150?text=Company+43",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_43.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+43",
               "description": "Brochure for Company 43."
           },
           "products": [
               {
                   "productName": "Product 43_1",
-                  "image": "https://example.com/products/product_43_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+43_1",
                   "description": "Description for Product 43_1."
               },
               {
                   "productName": "Product 43_2",
-                  "image": "https://example.com/products/product_43_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+43_2",
                   "description": "Description for Product 43_2."
               }
           ]
@@ -913,20 +913,20 @@
       {
           "companyName": "Company 44",
           "companyDescription": "Description for Company 44.",
-          "logo": "https://example.com/logos/company_44.png",
+          "logo": "https://via.placeholder.com/150?text=Company+44",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_44.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+44",
               "description": "Brochure for Company 44."
           },
           "products": [
               {
                   "productName": "Product 44_1",
-                  "image": "https://example.com/products/product_44_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+44_1",
                   "description": "Description for Product 44_1."
               },
               {
                   "productName": "Product 44_2",
-                  "image": "https://example.com/products/product_44_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+44_2",
                   "description": "Description for Product 44_2."
               }
           ]
@@ -934,20 +934,20 @@
       {
           "companyName": "Company 45",
           "companyDescription": "Description for Company 45.",
-          "logo": "https://example.com/logos/company_45.png",
+          "logo": "https://via.placeholder.com/150?text=Company+45",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_45.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+45",
               "description": "Brochure for Company 45."
           },
           "products": [
               {
                   "productName": "Product 45_1",
-                  "image": "https://example.com/products/product_45_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+45_1",
                   "description": "Description for Product 45_1."
               },
               {
                   "productName": "Product 45_2",
-                  "image": "https://example.com/products/product_45_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+45_2",
                   "description": "Description for Product 45_2."
               }
           ]
@@ -955,20 +955,20 @@
       {
           "companyName": "Company 46",
           "companyDescription": "Description for Company 46.",
-          "logo": "https://example.com/logos/company_46.png",
+          "logo": "https://via.placeholder.com/150?text=Company+46",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_46.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+46",
               "description": "Brochure for Company 46."
           },
           "products": [
               {
                   "productName": "Product 46_1",
-                  "image": "https://example.com/products/product_46_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+46_1",
                   "description": "Description for Product 46_1."
               },
               {
                   "productName": "Product 46_2",
-                  "image": "https://example.com/products/product_46_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+46_2",
                   "description": "Description for Product 46_2."
               }
           ]
@@ -976,20 +976,20 @@
       {
           "companyName": "Company 47",
           "companyDescription": "Description for Company 47.",
-          "logo": "https://example.com/logos/company_47.png",
+          "logo": "https://via.placeholder.com/150?text=Company+47",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_47.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+47",
               "description": "Brochure for Company 47."
           },
           "products": [
               {
                   "productName": "Product 47_1",
-                  "image": "https://example.com/products/product_47_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+47_1",
                   "description": "Description for Product 47_1."
               },
               {
                   "productName": "Product 47_2",
-                  "image": "https://example.com/products/product_47_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+47_2",
                   "description": "Description for Product 47_2."
               }
           ]
@@ -997,20 +997,20 @@
       {
           "companyName": "Company 48",
           "companyDescription": "Description for Company 48.",
-          "logo": "https://example.com/logos/company_48.png",
+          "logo": "https://via.placeholder.com/150?text=Company+48",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_48.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+48",
               "description": "Brochure for Company 48."
           },
           "products": [
               {
                   "productName": "Product 48_1",
-                  "image": "https://example.com/products/product_48_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+48_1",
                   "description": "Description for Product 48_1."
               },
               {
                   "productName": "Product 48_2",
-                  "image": "https://example.com/products/product_48_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+48_2",
                   "description": "Description for Product 48_2."
               }
           ]
@@ -1018,20 +1018,20 @@
       {
           "companyName": "Company 49",
           "companyDescription": "Description for Company 49.",
-          "logo": "https://example.com/logos/company_49.png",
+          "logo": "https://via.placeholder.com/150?text=Company+49",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_49.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+49",
               "description": "Brochure for Company 49."
           },
           "products": [
               {
                   "productName": "Product 49_1",
-                  "image": "https://example.com/products/product_49_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+49_1",
                   "description": "Description for Product 49_1."
               },
               {
                   "productName": "Product 49_2",
-                  "image": "https://example.com/products/product_49_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+49_2",
                   "description": "Description for Product 49_2."
               }
           ]
@@ -1039,20 +1039,20 @@
       {
           "companyName": "Company 50",
           "companyDescription": "Description for Company 50.",
-          "logo": "https://example.com/logos/company_50.png",
+          "logo": "https://via.placeholder.com/150?text=Company+50",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_50.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+50",
               "description": "Brochure for Company 50."
           },
           "products": [
               {
                   "productName": "Product 50_1",
-                  "image": "https://example.com/products/product_50_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+50_1",
                   "description": "Description for Product 50_1."
               },
               {
                   "productName": "Product 50_2",
-                  "image": "https://example.com/products/product_50_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+50_2",
                   "description": "Description for Product 50_2."
               }
           ]
@@ -1060,20 +1060,20 @@
       {
           "companyName": "Company 51",
           "companyDescription": "Description for Company 51.",
-          "logo": "https://example.com/logos/company_51.png",
+          "logo": "https://via.placeholder.com/150?text=Company+51",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_51.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+51",
               "description": "Brochure for Company 51."
           },
           "products": [
               {
                   "productName": "Product 51_1",
-                  "image": "https://example.com/products/product_51_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+51_1",
                   "description": "Description for Product 51_1."
               },
               {
                   "productName": "Product 51_2",
-                  "image": "https://example.com/products/product_51_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+51_2",
                   "description": "Description for Product 51_2."
               }
           ]
@@ -1081,20 +1081,20 @@
       {
           "companyName": "Company 52",
           "companyDescription": "Description for Company 52.",
-          "logo": "https://example.com/logos/company_52.png",
+          "logo": "https://via.placeholder.com/150?text=Company+52",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_52.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+52",
               "description": "Brochure for Company 52."
           },
           "products": [
               {
                   "productName": "Product 52_1",
-                  "image": "https://example.com/products/product_52_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+52_1",
                   "description": "Description for Product 52_1."
               },
               {
                   "productName": "Product 52_2",
-                  "image": "https://example.com/products/product_52_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+52_2",
                   "description": "Description for Product 52_2."
               }
           ]
@@ -1102,20 +1102,20 @@
       {
           "companyName": "Company 53",
           "companyDescription": "Description for Company 53.",
-          "logo": "https://example.com/logos/company_53.png",
+          "logo": "https://via.placeholder.com/150?text=Company+53",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_53.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+53",
               "description": "Brochure for Company 53."
           },
           "products": [
               {
                   "productName": "Product 53_1",
-                  "image": "https://example.com/products/product_53_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+53_1",
                   "description": "Description for Product 53_1."
               },
               {
                   "productName": "Product 53_2",
-                  "image": "https://example.com/products/product_53_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+53_2",
                   "description": "Description for Product 53_2."
               }
           ]
@@ -1123,20 +1123,20 @@
       {
           "companyName": "Company 54",
           "companyDescription": "Description for Company 54.",
-          "logo": "https://example.com/logos/company_54.png",
+          "logo": "https://via.placeholder.com/150?text=Company+54",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_54.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+54",
               "description": "Brochure for Company 54."
           },
           "products": [
               {
                   "productName": "Product 54_1",
-                  "image": "https://example.com/products/product_54_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+54_1",
                   "description": "Description for Product 54_1."
               },
               {
                   "productName": "Product 54_2",
-                  "image": "https://example.com/products/product_54_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+54_2",
                   "description": "Description for Product 54_2."
               }
           ]
@@ -1144,20 +1144,20 @@
       {
           "companyName": "Company 55",
           "companyDescription": "Description for Company 55.",
-          "logo": "https://example.com/logos/company_55.png",
+          "logo": "https://via.placeholder.com/150?text=Company+55",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_55.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+55",
               "description": "Brochure for Company 55."
           },
           "products": [
               {
                   "productName": "Product 55_1",
-                  "image": "https://example.com/products/product_55_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+55_1",
                   "description": "Description for Product 55_1."
               },
               {
                   "productName": "Product 55_2",
-                  "image": "https://example.com/products/product_55_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+55_2",
                   "description": "Description for Product 55_2."
               }
           ]
@@ -1165,20 +1165,20 @@
       {
           "companyName": "Company 56",
           "companyDescription": "Description for Company 56.",
-          "logo": "https://example.com/logos/company_56.png",
+          "logo": "https://via.placeholder.com/150?text=Company+56",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_56.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+56",
               "description": "Brochure for Company 56."
           },
           "products": [
               {
                   "productName": "Product 56_1",
-                  "image": "https://example.com/products/product_56_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+56_1",
                   "description": "Description for Product 56_1."
               },
               {
                   "productName": "Product 56_2",
-                  "image": "https://example.com/products/product_56_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+56_2",
                   "description": "Description for Product 56_2."
               }
           ]
@@ -1186,20 +1186,20 @@
       {
           "companyName": "Company 57",
           "companyDescription": "Description for Company 57.",
-          "logo": "https://example.com/logos/company_57.png",
+          "logo": "https://via.placeholder.com/150?text=Company+57",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_57.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+57",
               "description": "Brochure for Company 57."
           },
           "products": [
               {
                   "productName": "Product 57_1",
-                  "image": "https://example.com/products/product_57_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+57_1",
                   "description": "Description for Product 57_1."
               },
               {
                   "productName": "Product 57_2",
-                  "image": "https://example.com/products/product_57_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+57_2",
                   "description": "Description for Product 57_2."
               }
           ]
@@ -1207,20 +1207,20 @@
       {
           "companyName": "Company 58",
           "companyDescription": "Description for Company 58.",
-          "logo": "https://example.com/logos/company_58.png",
+          "logo": "https://via.placeholder.com/150?text=Company+58",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_58.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+58",
               "description": "Brochure for Company 58."
           },
           "products": [
               {
                   "productName": "Product 58_1",
-                  "image": "https://example.com/products/product_58_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+58_1",
                   "description": "Description for Product 58_1."
               },
               {
                   "productName": "Product 58_2",
-                  "image": "https://example.com/products/product_58_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+58_2",
                   "description": "Description for Product 58_2."
               }
           ]
@@ -1228,20 +1228,20 @@
       {
           "companyName": "Company 59",
           "companyDescription": "Description for Company 59.",
-          "logo": "https://example.com/logos/company_59.png",
+          "logo": "https://via.placeholder.com/150?text=Company+59",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_59.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+59",
               "description": "Brochure for Company 59."
           },
           "products": [
               {
                   "productName": "Product 59_1",
-                  "image": "https://example.com/products/product_59_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+59_1",
                   "description": "Description for Product 59_1."
               },
               {
                   "productName": "Product 59_2",
-                  "image": "https://example.com/products/product_59_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+59_2",
                   "description": "Description for Product 59_2."
               }
           ]
@@ -1249,20 +1249,20 @@
       {
           "companyName": "Company 60",
           "companyDescription": "Description for Company 60.",
-          "logo": "https://example.com/logos/company_60.png",
+          "logo": "https://via.placeholder.com/150?text=Company+60",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_60.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+60",
               "description": "Brochure for Company 60."
           },
           "products": [
               {
                   "productName": "Product 60_1",
-                  "image": "https://example.com/products/product_60_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+60_1",
                   "description": "Description for Product 60_1."
               },
               {
                   "productName": "Product 60_2",
-                  "image": "https://example.com/products/product_60_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+60_2",
                   "description": "Description for Product 60_2."
               }
           ]
@@ -1270,20 +1270,20 @@
       {
           "companyName": "Company 61",
           "companyDescription": "Description for Company 61.",
-          "logo": "https://example.com/logos/company_61.png",
+          "logo": "https://via.placeholder.com/150?text=Company+61",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_61.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+61",
               "description": "Brochure for Company 61."
           },
           "products": [
               {
                   "productName": "Product 61_1",
-                  "image": "https://example.com/products/product_61_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+61_1",
                   "description": "Description for Product 61_1."
               },
               {
                   "productName": "Product 61_2",
-                  "image": "https://example.com/products/product_61_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+61_2",
                   "description": "Description for Product 61_2."
               }
           ]
@@ -1291,20 +1291,20 @@
       {
           "companyName": "Company 62",
           "companyDescription": "Description for Company 62.",
-          "logo": "https://example.com/logos/company_62.png",
+          "logo": "https://via.placeholder.com/150?text=Company+62",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_62.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+62",
               "description": "Brochure for Company 62."
           },
           "products": [
               {
                   "productName": "Product 62_1",
-                  "image": "https://example.com/products/product_62_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+62_1",
                   "description": "Description for Product 62_1."
               },
               {
                   "productName": "Product 62_2",
-                  "image": "https://example.com/products/product_62_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+62_2",
                   "description": "Description for Product 62_2."
               }
           ]
@@ -1312,20 +1312,20 @@
       {
           "companyName": "Company 63",
           "companyDescription": "Description for Company 63.",
-          "logo": "https://example.com/logos/company_63.png",
+          "logo": "https://via.placeholder.com/150?text=Company+63",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_63.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+63",
               "description": "Brochure for Company 63."
           },
           "products": [
               {
                   "productName": "Product 63_1",
-                  "image": "https://example.com/products/product_63_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+63_1",
                   "description": "Description for Product 63_1."
               },
               {
                   "productName": "Product 63_2",
-                  "image": "https://example.com/products/product_63_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+63_2",
                   "description": "Description for Product 63_2."
               }
           ]
@@ -1333,20 +1333,20 @@
       {
           "companyName": "Company 64",
           "companyDescription": "Description for Company 64.",
-          "logo": "https://example.com/logos/company_64.png",
+          "logo": "https://via.placeholder.com/150?text=Company+64",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_64.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+64",
               "description": "Brochure for Company 64."
           },
           "products": [
               {
                   "productName": "Product 64_1",
-                  "image": "https://example.com/products/product_64_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+64_1",
                   "description": "Description for Product 64_1."
               },
               {
                   "productName": "Product 64_2",
-                  "image": "https://example.com/products/product_64_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+64_2",
                   "description": "Description for Product 64_2."
               }
           ]
@@ -1354,20 +1354,20 @@
       {
           "companyName": "Company 65",
           "companyDescription": "Description for Company 65.",
-          "logo": "https://example.com/logos/company_65.png",
+          "logo": "https://via.placeholder.com/150?text=Company+65",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_65.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+65",
               "description": "Brochure for Company 65."
           },
           "products": [
               {
                   "productName": "Product 65_1",
-                  "image": "https://example.com/products/product_65_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+65_1",
                   "description": "Description for Product 65_1."
               },
               {
                   "productName": "Product 65_2",
-                  "image": "https://example.com/products/product_65_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+65_2",
                   "description": "Description for Product 65_2."
               }
           ]
@@ -1375,20 +1375,20 @@
       {
           "companyName": "Company 66",
           "companyDescription": "Description for Company 66.",
-          "logo": "https://example.com/logos/company_66.png",
+          "logo": "https://via.placeholder.com/150?text=Company+66",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_66.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+66",
               "description": "Brochure for Company 66."
           },
           "products": [
               {
                   "productName": "Product 66_1",
-                  "image": "https://example.com/products/product_66_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+66_1",
                   "description": "Description for Product 66_1."
               },
               {
                   "productName": "Product 66_2",
-                  "image": "https://example.com/products/product_66_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+66_2",
                   "description": "Description for Product 66_2."
               }
           ]
@@ -1396,20 +1396,20 @@
       {
           "companyName": "Company 67",
           "companyDescription": "Description for Company 67.",
-          "logo": "https://example.com/logos/company_67.png",
+          "logo": "https://via.placeholder.com/150?text=Company+67",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_67.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+67",
               "description": "Brochure for Company 67."
           },
           "products": [
               {
                   "productName": "Product 67_1",
-                  "image": "https://example.com/products/product_67_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+67_1",
                   "description": "Description for Product 67_1."
               },
               {
                   "productName": "Product 67_2",
-                  "image": "https://example.com/products/product_67_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+67_2",
                   "description": "Description for Product 67_2."
               }
           ]
@@ -1417,20 +1417,20 @@
       {
           "companyName": "Company 68",
           "companyDescription": "Description for Company 68.",
-          "logo": "https://example.com/logos/company_68.png",
+          "logo": "https://via.placeholder.com/150?text=Company+68",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_68.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+68",
               "description": "Brochure for Company 68."
           },
           "products": [
               {
                   "productName": "Product 68_1",
-                  "image": "https://example.com/products/product_68_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+68_1",
                   "description": "Description for Product 68_1."
               },
               {
                   "productName": "Product 68_2",
-                  "image": "https://example.com/products/product_68_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+68_2",
                   "description": "Description for Product 68_2."
               }
           ]
@@ -1438,20 +1438,20 @@
       {
           "companyName": "Company 69",
           "companyDescription": "Description for Company 69.",
-          "logo": "https://example.com/logos/company_69.png",
+          "logo": "https://via.placeholder.com/150?text=Company+69",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_69.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+69",
               "description": "Brochure for Company 69."
           },
           "products": [
               {
                   "productName": "Product 69_1",
-                  "image": "https://example.com/products/product_69_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+69_1",
                   "description": "Description for Product 69_1."
               },
               {
                   "productName": "Product 69_2",
-                  "image": "https://example.com/products/product_69_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+69_2",
                   "description": "Description for Product 69_2."
               }
           ]
@@ -1459,20 +1459,20 @@
       {
           "companyName": "Company 70",
           "companyDescription": "Description for Company 70.",
-          "logo": "https://example.com/logos/company_70.png",
+          "logo": "https://via.placeholder.com/150?text=Company+70",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_70.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+70",
               "description": "Brochure for Company 70."
           },
           "products": [
               {
                   "productName": "Product 70_1",
-                  "image": "https://example.com/products/product_70_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+70_1",
                   "description": "Description for Product 70_1."
               },
               {
                   "productName": "Product 70_2",
-                  "image": "https://example.com/products/product_70_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+70_2",
                   "description": "Description for Product 70_2."
               }
           ]
@@ -1480,20 +1480,20 @@
       {
           "companyName": "Company 71",
           "companyDescription": "Description for Company 71.",
-          "logo": "https://example.com/logos/company_71.png",
+          "logo": "https://via.placeholder.com/150?text=Company+71",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_71.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+71",
               "description": "Brochure for Company 71."
           },
           "products": [
               {
                   "productName": "Product 71_1",
-                  "image": "https://example.com/products/product_71_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+71_1",
                   "description": "Description for Product 71_1."
               },
               {
                   "productName": "Product 71_2",
-                  "image": "https://example.com/products/product_71_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+71_2",
                   "description": "Description for Product 71_2."
               }
           ]
@@ -1501,20 +1501,20 @@
       {
           "companyName": "Company 72",
           "companyDescription": "Description for Company 72.",
-          "logo": "https://example.com/logos/company_72.png",
+          "logo": "https://via.placeholder.com/150?text=Company+72",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_72.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+72",
               "description": "Brochure for Company 72."
           },
           "products": [
               {
                   "productName": "Product 72_1",
-                  "image": "https://example.com/products/product_72_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+72_1",
                   "description": "Description for Product 72_1."
               },
               {
                   "productName": "Product 72_2",
-                  "image": "https://example.com/products/product_72_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+72_2",
                   "description": "Description for Product 72_2."
               }
           ]
@@ -1522,20 +1522,20 @@
       {
           "companyName": "Company 73",
           "companyDescription": "Description for Company 73.",
-          "logo": "https://example.com/logos/company_73.png",
+          "logo": "https://via.placeholder.com/150?text=Company+73",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_73.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+73",
               "description": "Brochure for Company 73."
           },
           "products": [
               {
                   "productName": "Product 73_1",
-                  "image": "https://example.com/products/product_73_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+73_1",
                   "description": "Description for Product 73_1."
               },
               {
                   "productName": "Product 73_2",
-                  "image": "https://example.com/products/product_73_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+73_2",
                   "description": "Description for Product 73_2."
               }
           ]
@@ -1543,20 +1543,20 @@
       {
           "companyName": "Company 74",
           "companyDescription": "Description for Company 74.",
-          "logo": "https://example.com/logos/company_74.png",
+          "logo": "https://via.placeholder.com/150?text=Company+74",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_74.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+74",
               "description": "Brochure for Company 74."
           },
           "products": [
               {
                   "productName": "Product 74_1",
-                  "image": "https://example.com/products/product_74_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+74_1",
                   "description": "Description for Product 74_1."
               },
               {
                   "productName": "Product 74_2",
-                  "image": "https://example.com/products/product_74_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+74_2",
                   "description": "Description for Product 74_2."
               }
           ]
@@ -1564,20 +1564,20 @@
       {
           "companyName": "Company 75",
           "companyDescription": "Description for Company 75.",
-          "logo": "https://example.com/logos/company_75.png",
+          "logo": "https://via.placeholder.com/150?text=Company+75",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_75.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+75",
               "description": "Brochure for Company 75."
           },
           "products": [
               {
                   "productName": "Product 75_1",
-                  "image": "https://example.com/products/product_75_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+75_1",
                   "description": "Description for Product 75_1."
               },
               {
                   "productName": "Product 75_2",
-                  "image": "https://example.com/products/product_75_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+75_2",
                   "description": "Description for Product 75_2."
               }
           ]
@@ -1585,20 +1585,20 @@
       {
           "companyName": "Company 76",
           "companyDescription": "Description for Company 76.",
-          "logo": "https://example.com/logos/company_76.png",
+          "logo": "https://via.placeholder.com/150?text=Company+76",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_76.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+76",
               "description": "Brochure for Company 76."
           },
           "products": [
               {
                   "productName": "Product 76_1",
-                  "image": "https://example.com/products/product_76_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+76_1",
                   "description": "Description for Product 76_1."
               },
               {
                   "productName": "Product 76_2",
-                  "image": "https://example.com/products/product_76_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+76_2",
                   "description": "Description for Product 76_2."
               }
           ]
@@ -1606,20 +1606,20 @@
       {
           "companyName": "Company 77",
           "companyDescription": "Description for Company 77.",
-          "logo": "https://example.com/logos/company_77.png",
+          "logo": "https://via.placeholder.com/150?text=Company+77",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_77.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+77",
               "description": "Brochure for Company 77."
           },
           "products": [
               {
                   "productName": "Product 77_1",
-                  "image": "https://example.com/products/product_77_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+77_1",
                   "description": "Description for Product 77_1."
               },
               {
                   "productName": "Product 77_2",
-                  "image": "https://example.com/products/product_77_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+77_2",
                   "description": "Description for Product 77_2."
               }
           ]
@@ -1627,20 +1627,20 @@
       {
           "companyName": "Company 78",
           "companyDescription": "Description for Company 78.",
-          "logo": "https://example.com/logos/company_78.png",
+          "logo": "https://via.placeholder.com/150?text=Company+78",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_78.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+78",
               "description": "Brochure for Company 78."
           },
           "products": [
               {
                   "productName": "Product 78_1",
-                  "image": "https://example.com/products/product_78_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+78_1",
                   "description": "Description for Product 78_1."
               },
               {
                   "productName": "Product 78_2",
-                  "image": "https://example.com/products/product_78_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+78_2",
                   "description": "Description for Product 78_2."
               }
           ]
@@ -1648,20 +1648,20 @@
       {
           "companyName": "Company 79",
           "companyDescription": "Description for Company 79.",
-          "logo": "https://example.com/logos/company_79.png",
+          "logo": "https://via.placeholder.com/150?text=Company+79",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_79.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+79",
               "description": "Brochure for Company 79."
           },
           "products": [
               {
                   "productName": "Product 79_1",
-                  "image": "https://example.com/products/product_79_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+79_1",
                   "description": "Description for Product 79_1."
               },
               {
                   "productName": "Product 79_2",
-                  "image": "https://example.com/products/product_79_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+79_2",
                   "description": "Description for Product 79_2."
               }
           ]
@@ -1669,20 +1669,20 @@
       {
           "companyName": "Company 80",
           "companyDescription": "Description for Company 80.",
-          "logo": "https://example.com/logos/company_80.png",
+          "logo": "https://via.placeholder.com/150?text=Company+80",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_80.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+80",
               "description": "Brochure for Company 80."
           },
           "products": [
               {
                   "productName": "Product 80_1",
-                  "image": "https://example.com/products/product_80_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+80_1",
                   "description": "Description for Product 80_1."
               },
               {
                   "productName": "Product 80_2",
-                  "image": "https://example.com/products/product_80_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+80_2",
                   "description": "Description for Product 80_2."
               }
           ]
@@ -1690,20 +1690,20 @@
       {
           "companyName": "Company 81",
           "companyDescription": "Description for Company 81.",
-          "logo": "https://example.com/logos/company_81.png",
+          "logo": "https://via.placeholder.com/150?text=Company+81",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_81.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+81",
               "description": "Brochure for Company 81."
           },
           "products": [
               {
                   "productName": "Product 81_1",
-                  "image": "https://example.com/products/product_81_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+81_1",
                   "description": "Description for Product 81_1."
               },
               {
                   "productName": "Product 81_2",
-                  "image": "https://example.com/products/product_81_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+81_2",
                   "description": "Description for Product 81_2."
               }
           ]
@@ -1711,20 +1711,20 @@
       {
           "companyName": "Company 82",
           "companyDescription": "Description for Company 82.",
-          "logo": "https://example.com/logos/company_82.png",
+          "logo": "https://via.placeholder.com/150?text=Company+82",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_82.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+82",
               "description": "Brochure for Company 82."
           },
           "products": [
               {
                   "productName": "Product 82_1",
-                  "image": "https://example.com/products/product_82_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+82_1",
                   "description": "Description for Product 82_1."
               },
               {
                   "productName": "Product 82_2",
-                  "image": "https://example.com/products/product_82_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+82_2",
                   "description": "Description for Product 82_2."
               }
           ]
@@ -1732,20 +1732,20 @@
       {
           "companyName": "Company 83",
           "companyDescription": "Description for Company 83.",
-          "logo": "https://example.com/logos/company_83.png",
+          "logo": "https://via.placeholder.com/150?text=Company+83",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_83.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+83",
               "description": "Brochure for Company 83."
           },
           "products": [
               {
                   "productName": "Product 83_1",
-                  "image": "https://example.com/products/product_83_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+83_1",
                   "description": "Description for Product 83_1."
               },
               {
                   "productName": "Product 83_2",
-                  "image": "https://example.com/products/product_83_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+83_2",
                   "description": "Description for Product 83_2."
               }
           ]
@@ -1753,20 +1753,20 @@
       {
           "companyName": "Company 84",
           "companyDescription": "Description for Company 84.",
-          "logo": "https://example.com/logos/company_84.png",
+          "logo": "https://via.placeholder.com/150?text=Company+84",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_84.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+84",
               "description": "Brochure for Company 84."
           },
           "products": [
               {
                   "productName": "Product 84_1",
-                  "image": "https://example.com/products/product_84_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+84_1",
                   "description": "Description for Product 84_1."
               },
               {
                   "productName": "Product 84_2",
-                  "image": "https://example.com/products/product_84_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+84_2",
                   "description": "Description for Product 84_2."
               }
           ]
@@ -1774,20 +1774,20 @@
       {
           "companyName": "Company 85",
           "companyDescription": "Description for Company 85.",
-          "logo": "https://example.com/logos/company_85.png",
+          "logo": "https://via.placeholder.com/150?text=Company+85",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_85.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+85",
               "description": "Brochure for Company 85."
           },
           "products": [
               {
                   "productName": "Product 85_1",
-                  "image": "https://example.com/products/product_85_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+85_1",
                   "description": "Description for Product 85_1."
               },
               {
                   "productName": "Product 85_2",
-                  "image": "https://example.com/products/product_85_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+85_2",
                   "description": "Description for Product 85_2."
               }
           ]
@@ -1795,20 +1795,20 @@
       {
           "companyName": "Company 86",
           "companyDescription": "Description for Company 86.",
-          "logo": "https://example.com/logos/company_86.png",
+          "logo": "https://via.placeholder.com/150?text=Company+86",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_86.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+86",
               "description": "Brochure for Company 86."
           },
           "products": [
               {
                   "productName": "Product 86_1",
-                  "image": "https://example.com/products/product_86_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+86_1",
                   "description": "Description for Product 86_1."
               },
               {
                   "productName": "Product 86_2",
-                  "image": "https://example.com/products/product_86_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+86_2",
                   "description": "Description for Product 86_2."
               }
           ]
@@ -1816,20 +1816,20 @@
       {
           "companyName": "Company 87",
           "companyDescription": "Description for Company 87.",
-          "logo": "https://example.com/logos/company_87.png",
+          "logo": "https://via.placeholder.com/150?text=Company+87",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_87.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+87",
               "description": "Brochure for Company 87."
           },
           "products": [
               {
                   "productName": "Product 87_1",
-                  "image": "https://example.com/products/product_87_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+87_1",
                   "description": "Description for Product 87_1."
               },
               {
                   "productName": "Product 87_2",
-                  "image": "https://example.com/products/product_87_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+87_2",
                   "description": "Description for Product 87_2."
               }
           ]
@@ -1837,20 +1837,20 @@
       {
           "companyName": "Company 88",
           "companyDescription": "Description for Company 88.",
-          "logo": "https://example.com/logos/company_88.png",
+          "logo": "https://via.placeholder.com/150?text=Company+88",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_88.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+88",
               "description": "Brochure for Company 88."
           },
           "products": [
               {
                   "productName": "Product 88_1",
-                  "image": "https://example.com/products/product_88_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+88_1",
                   "description": "Description for Product 88_1."
               },
               {
                   "productName": "Product 88_2",
-                  "image": "https://example.com/products/product_88_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+88_2",
                   "description": "Description for Product 88_2."
               }
           ]
@@ -1858,20 +1858,20 @@
       {
           "companyName": "Company 89",
           "companyDescription": "Description for Company 89.",
-          "logo": "https://example.com/logos/company_89.png",
+          "logo": "https://via.placeholder.com/150?text=Company+89",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_89.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+89",
               "description": "Brochure for Company 89."
           },
           "products": [
               {
                   "productName": "Product 89_1",
-                  "image": "https://example.com/products/product_89_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+89_1",
                   "description": "Description for Product 89_1."
               },
               {
                   "productName": "Product 89_2",
-                  "image": "https://example.com/products/product_89_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+89_2",
                   "description": "Description for Product 89_2."
               }
           ]
@@ -1879,20 +1879,20 @@
       {
           "companyName": "Company 90",
           "companyDescription": "Description for Company 90.",
-          "logo": "https://example.com/logos/company_90.png",
+          "logo": "https://via.placeholder.com/150?text=Company+90",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_90.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+90",
               "description": "Brochure for Company 90."
           },
           "products": [
               {
                   "productName": "Product 90_1",
-                  "image": "https://example.com/products/product_90_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+90_1",
                   "description": "Description for Product 90_1."
               },
               {
                   "productName": "Product 90_2",
-                  "image": "https://example.com/products/product_90_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+90_2",
                   "description": "Description for Product 90_2."
               }
           ]
@@ -1900,20 +1900,20 @@
       {
           "companyName": "Company 91",
           "companyDescription": "Description for Company 91.",
-          "logo": "https://example.com/logos/company_91.png",
+          "logo": "https://via.placeholder.com/150?text=Company+91",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_91.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+91",
               "description": "Brochure for Company 91."
           },
           "products": [
               {
                   "productName": "Product 91_1",
-                  "image": "https://example.com/products/product_91_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+91_1",
                   "description": "Description for Product 91_1."
               },
               {
                   "productName": "Product 91_2",
-                  "image": "https://example.com/products/product_91_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+91_2",
                   "description": "Description for Product 91_2."
               }
           ]
@@ -1921,20 +1921,20 @@
       {
           "companyName": "Company 92",
           "companyDescription": "Description for Company 92.",
-          "logo": "https://example.com/logos/company_92.png",
+          "logo": "https://via.placeholder.com/150?text=Company+92",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_92.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+92",
               "description": "Brochure for Company 92."
           },
           "products": [
               {
                   "productName": "Product 92_1",
-                  "image": "https://example.com/products/product_92_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+92_1",
                   "description": "Description for Product 92_1."
               },
               {
                   "productName": "Product 92_2",
-                  "image": "https://example.com/products/product_92_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+92_2",
                   "description": "Description for Product 92_2."
               }
           ]
@@ -1942,20 +1942,20 @@
       {
           "companyName": "Company 93",
           "companyDescription": "Description for Company 93.",
-          "logo": "https://example.com/logos/company_93.png",
+          "logo": "https://via.placeholder.com/150?text=Company+93",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_93.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+93",
               "description": "Brochure for Company 93."
           },
           "products": [
               {
                   "productName": "Product 93_1",
-                  "image": "https://example.com/products/product_93_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+93_1",
                   "description": "Description for Product 93_1."
               },
               {
                   "productName": "Product 93_2",
-                  "image": "https://example.com/products/product_93_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+93_2",
                   "description": "Description for Product 93_2."
               }
           ]
@@ -1963,20 +1963,20 @@
       {
           "companyName": "Company 94",
           "companyDescription": "Description for Company 94.",
-          "logo": "https://example.com/logos/company_94.png",
+          "logo": "https://via.placeholder.com/150?text=Company+94",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_94.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+94",
               "description": "Brochure for Company 94."
           },
           "products": [
               {
                   "productName": "Product 94_1",
-                  "image": "https://example.com/products/product_94_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+94_1",
                   "description": "Description for Product 94_1."
               },
               {
                   "productName": "Product 94_2",
-                  "image": "https://example.com/products/product_94_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+94_2",
                   "description": "Description for Product 94_2."
               }
           ]
@@ -1984,20 +1984,20 @@
       {
           "companyName": "Company 95",
           "companyDescription": "Description for Company 95.",
-          "logo": "https://example.com/logos/company_95.png",
+          "logo": "https://via.placeholder.com/150?text=Company+95",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_95.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+95",
               "description": "Brochure for Company 95."
           },
           "products": [
               {
                   "productName": "Product 95_1",
-                  "image": "https://example.com/products/product_95_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+95_1",
                   "description": "Description for Product 95_1."
               },
               {
                   "productName": "Product 95_2",
-                  "image": "https://example.com/products/product_95_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+95_2",
                   "description": "Description for Product 95_2."
               }
           ]
@@ -2005,20 +2005,20 @@
       {
           "companyName": "Company 96",
           "companyDescription": "Description for Company 96.",
-          "logo": "https://example.com/logos/company_96.png",
+          "logo": "https://via.placeholder.com/150?text=Company+96",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_96.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+96",
               "description": "Brochure for Company 96."
           },
           "products": [
               {
                   "productName": "Product 96_1",
-                  "image": "https://example.com/products/product_96_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+96_1",
                   "description": "Description for Product 96_1."
               },
               {
                   "productName": "Product 96_2",
-                  "image": "https://example.com/products/product_96_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+96_2",
                   "description": "Description for Product 96_2."
               }
           ]
@@ -2026,20 +2026,20 @@
       {
           "companyName": "Company 97",
           "companyDescription": "Description for Company 97.",
-          "logo": "https://example.com/logos/company_97.png",
+          "logo": "https://via.placeholder.com/150?text=Company+97",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_97.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+97",
               "description": "Brochure for Company 97."
           },
           "products": [
               {
                   "productName": "Product 97_1",
-                  "image": "https://example.com/products/product_97_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+97_1",
                   "description": "Description for Product 97_1."
               },
               {
                   "productName": "Product 97_2",
-                  "image": "https://example.com/products/product_97_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+97_2",
                   "description": "Description for Product 97_2."
               }
           ]
@@ -2047,20 +2047,20 @@
       {
           "companyName": "Company 98",
           "companyDescription": "Description for Company 98.",
-          "logo": "https://example.com/logos/company_98.png",
+          "logo": "https://via.placeholder.com/150?text=Company+98",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_98.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+98",
               "description": "Brochure for Company 98."
           },
           "products": [
               {
                   "productName": "Product 98_1",
-                  "image": "https://example.com/products/product_98_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+98_1",
                   "description": "Description for Product 98_1."
               },
               {
                   "productName": "Product 98_2",
-                  "image": "https://example.com/products/product_98_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+98_2",
                   "description": "Description for Product 98_2."
               }
           ]
@@ -2068,20 +2068,20 @@
       {
           "companyName": "Company 99",
           "companyDescription": "Description for Company 99.",
-          "logo": "https://example.com/logos/company_99.png",
+          "logo": "https://via.placeholder.com/150?text=Company+99",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_99.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+99",
               "description": "Brochure for Company 99."
           },
           "products": [
               {
                   "productName": "Product 99_1",
-                  "image": "https://example.com/products/product_99_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+99_1",
                   "description": "Description for Product 99_1."
               },
               {
                   "productName": "Product 99_2",
-                  "image": "https://example.com/products/product_99_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+99_2",
                   "description": "Description for Product 99_2."
               }
           ]
@@ -2089,20 +2089,20 @@
       {
           "companyName": "Company 100",
           "companyDescription": "Description for Company 100.",
-          "logo": "https://example.com/logos/company_100.png",
+          "logo": "https://via.placeholder.com/150?text=Company+100",
           "brochure": {
-              "brochureUrl": "https://example.com/brochures/company_100.pdf",
+              "brochureUrl": "https://via.placeholder.com/500x700.png?text=Brochure+Company+100",
               "description": "Brochure for Company 100."
           },
           "products": [
               {
                   "productName": "Product 100_1",
-                  "image": "https://example.com/products/product_100_1.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+100_1",
                   "description": "Description for Product 100_1."
               },
               {
                   "productName": "Product 100_2",
-                  "image": "https://example.com/products/product_100_2.jpg",
+                  "image": "https://via.placeholder.com/300x200?text=Product+100_2",
                   "description": "Description for Product 100_2."
               }
           ]
@@ -2513,1004 +2513,1004 @@
   "posters": [
       {
           "title": "Poster 1",
-          "image": "https://example.com/posters/poster_1.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+1",
           "description": "Description for Poster 1."
       },
       {
           "title": "Poster 2",
-          "image": "https://example.com/posters/poster_2.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+2",
           "description": "Description for Poster 2."
       },
       {
           "title": "Poster 3",
-          "image": "https://example.com/posters/poster_3.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+3",
           "description": "Description for Poster 3."
       },
       {
           "title": "Poster 4",
-          "image": "https://example.com/posters/poster_4.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+4",
           "description": "Description for Poster 4."
       },
       {
           "title": "Poster 5",
-          "image": "https://example.com/posters/poster_5.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+5",
           "description": "Description for Poster 5."
       },
       {
           "title": "Poster 6",
-          "image": "https://example.com/posters/poster_6.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+6",
           "description": "Description for Poster 6."
       },
       {
           "title": "Poster 7",
-          "image": "https://example.com/posters/poster_7.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+7",
           "description": "Description for Poster 7."
       },
       {
           "title": "Poster 8",
-          "image": "https://example.com/posters/poster_8.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+8",
           "description": "Description for Poster 8."
       },
       {
           "title": "Poster 9",
-          "image": "https://example.com/posters/poster_9.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+9",
           "description": "Description for Poster 9."
       },
       {
           "title": "Poster 10",
-          "image": "https://example.com/posters/poster_10.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+10",
           "description": "Description for Poster 10."
       },
       {
           "title": "Poster 11",
-          "image": "https://example.com/posters/poster_11.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+11",
           "description": "Description for Poster 11."
       },
       {
           "title": "Poster 12",
-          "image": "https://example.com/posters/poster_12.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+12",
           "description": "Description for Poster 12."
       },
       {
           "title": "Poster 13",
-          "image": "https://example.com/posters/poster_13.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+13",
           "description": "Description for Poster 13."
       },
       {
           "title": "Poster 14",
-          "image": "https://example.com/posters/poster_14.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+14",
           "description": "Description for Poster 14."
       },
       {
           "title": "Poster 15",
-          "image": "https://example.com/posters/poster_15.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+15",
           "description": "Description for Poster 15."
       },
       {
           "title": "Poster 16",
-          "image": "https://example.com/posters/poster_16.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+16",
           "description": "Description for Poster 16."
       },
       {
           "title": "Poster 17",
-          "image": "https://example.com/posters/poster_17.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+17",
           "description": "Description for Poster 17."
       },
       {
           "title": "Poster 18",
-          "image": "https://example.com/posters/poster_18.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+18",
           "description": "Description for Poster 18."
       },
       {
           "title": "Poster 19",
-          "image": "https://example.com/posters/poster_19.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+19",
           "description": "Description for Poster 19."
       },
       {
           "title": "Poster 20",
-          "image": "https://example.com/posters/poster_20.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+20",
           "description": "Description for Poster 20."
       },
       {
           "title": "Poster 21",
-          "image": "https://example.com/posters/poster_21.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+21",
           "description": "Description for Poster 21."
       },
       {
           "title": "Poster 22",
-          "image": "https://example.com/posters/poster_22.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+22",
           "description": "Description for Poster 22."
       },
       {
           "title": "Poster 23",
-          "image": "https://example.com/posters/poster_23.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+23",
           "description": "Description for Poster 23."
       },
       {
           "title": "Poster 24",
-          "image": "https://example.com/posters/poster_24.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+24",
           "description": "Description for Poster 24."
       },
       {
           "title": "Poster 25",
-          "image": "https://example.com/posters/poster_25.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+25",
           "description": "Description for Poster 25."
       },
       {
           "title": "Poster 26",
-          "image": "https://example.com/posters/poster_26.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+26",
           "description": "Description for Poster 26."
       },
       {
           "title": "Poster 27",
-          "image": "https://example.com/posters/poster_27.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+27",
           "description": "Description for Poster 27."
       },
       {
           "title": "Poster 28",
-          "image": "https://example.com/posters/poster_28.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+28",
           "description": "Description for Poster 28."
       },
       {
           "title": "Poster 29",
-          "image": "https://example.com/posters/poster_29.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+29",
           "description": "Description for Poster 29."
       },
       {
           "title": "Poster 30",
-          "image": "https://example.com/posters/poster_30.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+30",
           "description": "Description for Poster 30."
       },
       {
           "title": "Poster 31",
-          "image": "https://example.com/posters/poster_31.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+31",
           "description": "Description for Poster 31."
       },
       {
           "title": "Poster 32",
-          "image": "https://example.com/posters/poster_32.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+32",
           "description": "Description for Poster 32."
       },
       {
           "title": "Poster 33",
-          "image": "https://example.com/posters/poster_33.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+33",
           "description": "Description for Poster 33."
       },
       {
           "title": "Poster 34",
-          "image": "https://example.com/posters/poster_34.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+34",
           "description": "Description for Poster 34."
       },
       {
           "title": "Poster 35",
-          "image": "https://example.com/posters/poster_35.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+35",
           "description": "Description for Poster 35."
       },
       {
           "title": "Poster 36",
-          "image": "https://example.com/posters/poster_36.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+36",
           "description": "Description for Poster 36."
       },
       {
           "title": "Poster 37",
-          "image": "https://example.com/posters/poster_37.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+37",
           "description": "Description for Poster 37."
       },
       {
           "title": "Poster 38",
-          "image": "https://example.com/posters/poster_38.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+38",
           "description": "Description for Poster 38."
       },
       {
           "title": "Poster 39",
-          "image": "https://example.com/posters/poster_39.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+39",
           "description": "Description for Poster 39."
       },
       {
           "title": "Poster 40",
-          "image": "https://example.com/posters/poster_40.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+40",
           "description": "Description for Poster 40."
       },
       {
           "title": "Poster 41",
-          "image": "https://example.com/posters/poster_41.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+41",
           "description": "Description for Poster 41."
       },
       {
           "title": "Poster 42",
-          "image": "https://example.com/posters/poster_42.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+42",
           "description": "Description for Poster 42."
       },
       {
           "title": "Poster 43",
-          "image": "https://example.com/posters/poster_43.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+43",
           "description": "Description for Poster 43."
       },
       {
           "title": "Poster 44",
-          "image": "https://example.com/posters/poster_44.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+44",
           "description": "Description for Poster 44."
       },
       {
           "title": "Poster 45",
-          "image": "https://example.com/posters/poster_45.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+45",
           "description": "Description for Poster 45."
       },
       {
           "title": "Poster 46",
-          "image": "https://example.com/posters/poster_46.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+46",
           "description": "Description for Poster 46."
       },
       {
           "title": "Poster 47",
-          "image": "https://example.com/posters/poster_47.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+47",
           "description": "Description for Poster 47."
       },
       {
           "title": "Poster 48",
-          "image": "https://example.com/posters/poster_48.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+48",
           "description": "Description for Poster 48."
       },
       {
           "title": "Poster 49",
-          "image": "https://example.com/posters/poster_49.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+49",
           "description": "Description for Poster 49."
       },
       {
           "title": "Poster 50",
-          "image": "https://example.com/posters/poster_50.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+50",
           "description": "Description for Poster 50."
       },
       {
           "title": "Poster 51",
-          "image": "https://example.com/posters/poster_51.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+51",
           "description": "Description for Poster 51."
       },
       {
           "title": "Poster 52",
-          "image": "https://example.com/posters/poster_52.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+52",
           "description": "Description for Poster 52."
       },
       {
           "title": "Poster 53",
-          "image": "https://example.com/posters/poster_53.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+53",
           "description": "Description for Poster 53."
       },
       {
           "title": "Poster 54",
-          "image": "https://example.com/posters/poster_54.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+54",
           "description": "Description for Poster 54."
       },
       {
           "title": "Poster 55",
-          "image": "https://example.com/posters/poster_55.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+55",
           "description": "Description for Poster 55."
       },
       {
           "title": "Poster 56",
-          "image": "https://example.com/posters/poster_56.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+56",
           "description": "Description for Poster 56."
       },
       {
           "title": "Poster 57",
-          "image": "https://example.com/posters/poster_57.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+57",
           "description": "Description for Poster 57."
       },
       {
           "title": "Poster 58",
-          "image": "https://example.com/posters/poster_58.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+58",
           "description": "Description for Poster 58."
       },
       {
           "title": "Poster 59",
-          "image": "https://example.com/posters/poster_59.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+59",
           "description": "Description for Poster 59."
       },
       {
           "title": "Poster 60",
-          "image": "https://example.com/posters/poster_60.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+60",
           "description": "Description for Poster 60."
       },
       {
           "title": "Poster 61",
-          "image": "https://example.com/posters/poster_61.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+61",
           "description": "Description for Poster 61."
       },
       {
           "title": "Poster 62",
-          "image": "https://example.com/posters/poster_62.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+62",
           "description": "Description for Poster 62."
       },
       {
           "title": "Poster 63",
-          "image": "https://example.com/posters/poster_63.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+63",
           "description": "Description for Poster 63."
       },
       {
           "title": "Poster 64",
-          "image": "https://example.com/posters/poster_64.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+64",
           "description": "Description for Poster 64."
       },
       {
           "title": "Poster 65",
-          "image": "https://example.com/posters/poster_65.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+65",
           "description": "Description for Poster 65."
       },
       {
           "title": "Poster 66",
-          "image": "https://example.com/posters/poster_66.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+66",
           "description": "Description for Poster 66."
       },
       {
           "title": "Poster 67",
-          "image": "https://example.com/posters/poster_67.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+67",
           "description": "Description for Poster 67."
       },
       {
           "title": "Poster 68",
-          "image": "https://example.com/posters/poster_68.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+68",
           "description": "Description for Poster 68."
       },
       {
           "title": "Poster 69",
-          "image": "https://example.com/posters/poster_69.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+69",
           "description": "Description for Poster 69."
       },
       {
           "title": "Poster 70",
-          "image": "https://example.com/posters/poster_70.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+70",
           "description": "Description for Poster 70."
       },
       {
           "title": "Poster 71",
-          "image": "https://example.com/posters/poster_71.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+71",
           "description": "Description for Poster 71."
       },
       {
           "title": "Poster 72",
-          "image": "https://example.com/posters/poster_72.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+72",
           "description": "Description for Poster 72."
       },
       {
           "title": "Poster 73",
-          "image": "https://example.com/posters/poster_73.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+73",
           "description": "Description for Poster 73."
       },
       {
           "title": "Poster 74",
-          "image": "https://example.com/posters/poster_74.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+74",
           "description": "Description for Poster 74."
       },
       {
           "title": "Poster 75",
-          "image": "https://example.com/posters/poster_75.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+75",
           "description": "Description for Poster 75."
       },
       {
           "title": "Poster 76",
-          "image": "https://example.com/posters/poster_76.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+76",
           "description": "Description for Poster 76."
       },
       {
           "title": "Poster 77",
-          "image": "https://example.com/posters/poster_77.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+77",
           "description": "Description for Poster 77."
       },
       {
           "title": "Poster 78",
-          "image": "https://example.com/posters/poster_78.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+78",
           "description": "Description for Poster 78."
       },
       {
           "title": "Poster 79",
-          "image": "https://example.com/posters/poster_79.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+79",
           "description": "Description for Poster 79."
       },
       {
           "title": "Poster 80",
-          "image": "https://example.com/posters/poster_80.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+80",
           "description": "Description for Poster 80."
       },
       {
           "title": "Poster 81",
-          "image": "https://example.com/posters/poster_81.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+81",
           "description": "Description for Poster 81."
       },
       {
           "title": "Poster 82",
-          "image": "https://example.com/posters/poster_82.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+82",
           "description": "Description for Poster 82."
       },
       {
           "title": "Poster 83",
-          "image": "https://example.com/posters/poster_83.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+83",
           "description": "Description for Poster 83."
       },
       {
           "title": "Poster 84",
-          "image": "https://example.com/posters/poster_84.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+84",
           "description": "Description for Poster 84."
       },
       {
           "title": "Poster 85",
-          "image": "https://example.com/posters/poster_85.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+85",
           "description": "Description for Poster 85."
       },
       {
           "title": "Poster 86",
-          "image": "https://example.com/posters/poster_86.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+86",
           "description": "Description for Poster 86."
       },
       {
           "title": "Poster 87",
-          "image": "https://example.com/posters/poster_87.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+87",
           "description": "Description for Poster 87."
       },
       {
           "title": "Poster 88",
-          "image": "https://example.com/posters/poster_88.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+88",
           "description": "Description for Poster 88."
       },
       {
           "title": "Poster 89",
-          "image": "https://example.com/posters/poster_89.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+89",
           "description": "Description for Poster 89."
       },
       {
           "title": "Poster 90",
-          "image": "https://example.com/posters/poster_90.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+90",
           "description": "Description for Poster 90."
       },
       {
           "title": "Poster 91",
-          "image": "https://example.com/posters/poster_91.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+91",
           "description": "Description for Poster 91."
       },
       {
           "title": "Poster 92",
-          "image": "https://example.com/posters/poster_92.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+92",
           "description": "Description for Poster 92."
       },
       {
           "title": "Poster 93",
-          "image": "https://example.com/posters/poster_93.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+93",
           "description": "Description for Poster 93."
       },
       {
           "title": "Poster 94",
-          "image": "https://example.com/posters/poster_94.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+94",
           "description": "Description for Poster 94."
       },
       {
           "title": "Poster 95",
-          "image": "https://example.com/posters/poster_95.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+95",
           "description": "Description for Poster 95."
       },
       {
           "title": "Poster 96",
-          "image": "https://example.com/posters/poster_96.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+96",
           "description": "Description for Poster 96."
       },
       {
           "title": "Poster 97",
-          "image": "https://example.com/posters/poster_97.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+97",
           "description": "Description for Poster 97."
       },
       {
           "title": "Poster 98",
-          "image": "https://example.com/posters/poster_98.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+98",
           "description": "Description for Poster 98."
       },
       {
           "title": "Poster 99",
-          "image": "https://example.com/posters/poster_99.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+99",
           "description": "Description for Poster 99."
       },
       {
           "title": "Poster 100",
-          "image": "https://example.com/posters/poster_100.jpg",
+          "image": "https://via.placeholder.com/600x400?text=Poster+100",
           "description": "Description for Poster 100."
       }
   ],
   "videos": [
       {
           "title": "Video 1",
-          "videoUrl": "https://example.com/videos/video_1.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 1."
       },
       {
           "title": "Video 2",
-          "videoUrl": "https://example.com/videos/video_2.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 2."
       },
       {
           "title": "Video 3",
-          "videoUrl": "https://example.com/videos/video_3.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 3."
       },
       {
           "title": "Video 4",
-          "videoUrl": "https://example.com/videos/video_4.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 4."
       },
       {
           "title": "Video 5",
-          "videoUrl": "https://example.com/videos/video_5.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 5."
       },
       {
           "title": "Video 6",
-          "videoUrl": "https://example.com/videos/video_6.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 6."
       },
       {
           "title": "Video 7",
-          "videoUrl": "https://example.com/videos/video_7.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 7."
       },
       {
           "title": "Video 8",
-          "videoUrl": "https://example.com/videos/video_8.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 8."
       },
       {
           "title": "Video 9",
-          "videoUrl": "https://example.com/videos/video_9.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 9."
       },
       {
           "title": "Video 10",
-          "videoUrl": "https://example.com/videos/video_10.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 10."
       },
       {
           "title": "Video 11",
-          "videoUrl": "https://example.com/videos/video_11.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 11."
       },
       {
           "title": "Video 12",
-          "videoUrl": "https://example.com/videos/video_12.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 12."
       },
       {
           "title": "Video 13",
-          "videoUrl": "https://example.com/videos/video_13.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 13."
       },
       {
           "title": "Video 14",
-          "videoUrl": "https://example.com/videos/video_14.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 14."
       },
       {
           "title": "Video 15",
-          "videoUrl": "https://example.com/videos/video_15.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 15."
       },
       {
           "title": "Video 16",
-          "videoUrl": "https://example.com/videos/video_16.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 16."
       },
       {
           "title": "Video 17",
-          "videoUrl": "https://example.com/videos/video_17.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 17."
       },
       {
           "title": "Video 18",
-          "videoUrl": "https://example.com/videos/video_18.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 18."
       },
       {
           "title": "Video 19",
-          "videoUrl": "https://example.com/videos/video_19.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 19."
       },
       {
           "title": "Video 20",
-          "videoUrl": "https://example.com/videos/video_20.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 20."
       },
       {
           "title": "Video 21",
-          "videoUrl": "https://example.com/videos/video_21.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 21."
       },
       {
           "title": "Video 22",
-          "videoUrl": "https://example.com/videos/video_22.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 22."
       },
       {
           "title": "Video 23",
-          "videoUrl": "https://example.com/videos/video_23.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 23."
       },
       {
           "title": "Video 24",
-          "videoUrl": "https://example.com/videos/video_24.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 24."
       },
       {
           "title": "Video 25",
-          "videoUrl": "https://example.com/videos/video_25.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 25."
       },
       {
           "title": "Video 26",
-          "videoUrl": "https://example.com/videos/video_26.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 26."
       },
       {
           "title": "Video 27",
-          "videoUrl": "https://example.com/videos/video_27.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 27."
       },
       {
           "title": "Video 28",
-          "videoUrl": "https://example.com/videos/video_28.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 28."
       },
       {
           "title": "Video 29",
-          "videoUrl": "https://example.com/videos/video_29.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 29."
       },
       {
           "title": "Video 30",
-          "videoUrl": "https://example.com/videos/video_30.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 30."
       },
       {
           "title": "Video 31",
-          "videoUrl": "https://example.com/videos/video_31.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 31."
       },
       {
           "title": "Video 32",
-          "videoUrl": "https://example.com/videos/video_32.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 32."
       },
       {
           "title": "Video 33",
-          "videoUrl": "https://example.com/videos/video_33.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 33."
       },
       {
           "title": "Video 34",
-          "videoUrl": "https://example.com/videos/video_34.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 34."
       },
       {
           "title": "Video 35",
-          "videoUrl": "https://example.com/videos/video_35.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 35."
       },
       {
           "title": "Video 36",
-          "videoUrl": "https://example.com/videos/video_36.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 36."
       },
       {
           "title": "Video 37",
-          "videoUrl": "https://example.com/videos/video_37.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 37."
       },
       {
           "title": "Video 38",
-          "videoUrl": "https://example.com/videos/video_38.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 38."
       },
       {
           "title": "Video 39",
-          "videoUrl": "https://example.com/videos/video_39.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 39."
       },
       {
           "title": "Video 40",
-          "videoUrl": "https://example.com/videos/video_40.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 40."
       },
       {
           "title": "Video 41",
-          "videoUrl": "https://example.com/videos/video_41.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 41."
       },
       {
           "title": "Video 42",
-          "videoUrl": "https://example.com/videos/video_42.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 42."
       },
       {
           "title": "Video 43",
-          "videoUrl": "https://example.com/videos/video_43.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 43."
       },
       {
           "title": "Video 44",
-          "videoUrl": "https://example.com/videos/video_44.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 44."
       },
       {
           "title": "Video 45",
-          "videoUrl": "https://example.com/videos/video_45.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 45."
       },
       {
           "title": "Video 46",
-          "videoUrl": "https://example.com/videos/video_46.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 46."
       },
       {
           "title": "Video 47",
-          "videoUrl": "https://example.com/videos/video_47.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 47."
       },
       {
           "title": "Video 48",
-          "videoUrl": "https://example.com/videos/video_48.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 48."
       },
       {
           "title": "Video 49",
-          "videoUrl": "https://example.com/videos/video_49.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 49."
       },
       {
           "title": "Video 50",
-          "videoUrl": "https://example.com/videos/video_50.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 50."
       },
       {
           "title": "Video 51",
-          "videoUrl": "https://example.com/videos/video_51.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 51."
       },
       {
           "title": "Video 52",
-          "videoUrl": "https://example.com/videos/video_52.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 52."
       },
       {
           "title": "Video 53",
-          "videoUrl": "https://example.com/videos/video_53.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 53."
       },
       {
           "title": "Video 54",
-          "videoUrl": "https://example.com/videos/video_54.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 54."
       },
       {
           "title": "Video 55",
-          "videoUrl": "https://example.com/videos/video_55.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 55."
       },
       {
           "title": "Video 56",
-          "videoUrl": "https://example.com/videos/video_56.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 56."
       },
       {
           "title": "Video 57",
-          "videoUrl": "https://example.com/videos/video_57.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 57."
       },
       {
           "title": "Video 58",
-          "videoUrl": "https://example.com/videos/video_58.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 58."
       },
       {
           "title": "Video 59",
-          "videoUrl": "https://example.com/videos/video_59.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 59."
       },
       {
           "title": "Video 60",
-          "videoUrl": "https://example.com/videos/video_60.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 60."
       },
       {
           "title": "Video 61",
-          "videoUrl": "https://example.com/videos/video_61.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 61."
       },
       {
           "title": "Video 62",
-          "videoUrl": "https://example.com/videos/video_62.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 62."
       },
       {
           "title": "Video 63",
-          "videoUrl": "https://example.com/videos/video_63.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 63."
       },
       {
           "title": "Video 64",
-          "videoUrl": "https://example.com/videos/video_64.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 64."
       },
       {
           "title": "Video 65",
-          "videoUrl": "https://example.com/videos/video_65.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 65."
       },
       {
           "title": "Video 66",
-          "videoUrl": "https://example.com/videos/video_66.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 66."
       },
       {
           "title": "Video 67",
-          "videoUrl": "https://example.com/videos/video_67.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 67."
       },
       {
           "title": "Video 68",
-          "videoUrl": "https://example.com/videos/video_68.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 68."
       },
       {
           "title": "Video 69",
-          "videoUrl": "https://example.com/videos/video_69.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 69."
       },
       {
           "title": "Video 70",
-          "videoUrl": "https://example.com/videos/video_70.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 70."
       },
       {
           "title": "Video 71",
-          "videoUrl": "https://example.com/videos/video_71.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 71."
       },
       {
           "title": "Video 72",
-          "videoUrl": "https://example.com/videos/video_72.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 72."
       },
       {
           "title": "Video 73",
-          "videoUrl": "https://example.com/videos/video_73.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 73."
       },
       {
           "title": "Video 74",
-          "videoUrl": "https://example.com/videos/video_74.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 74."
       },
       {
           "title": "Video 75",
-          "videoUrl": "https://example.com/videos/video_75.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 75."
       },
       {
           "title": "Video 76",
-          "videoUrl": "https://example.com/videos/video_76.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 76."
       },
       {
           "title": "Video 77",
-          "videoUrl": "https://example.com/videos/video_77.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 77."
       },
       {
           "title": "Video 78",
-          "videoUrl": "https://example.com/videos/video_78.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 78."
       },
       {
           "title": "Video 79",
-          "videoUrl": "https://example.com/videos/video_79.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 79."
       },
       {
           "title": "Video 80",
-          "videoUrl": "https://example.com/videos/video_80.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 80."
       },
       {
           "title": "Video 81",
-          "videoUrl": "https://example.com/videos/video_81.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 81."
       },
       {
           "title": "Video 82",
-          "videoUrl": "https://example.com/videos/video_82.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 82."
       },
       {
           "title": "Video 83",
-          "videoUrl": "https://example.com/videos/video_83.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 83."
       },
       {
           "title": "Video 84",
-          "videoUrl": "https://example.com/videos/video_84.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 84."
       },
       {
           "title": "Video 85",
-          "videoUrl": "https://example.com/videos/video_85.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 85."
       },
       {
           "title": "Video 86",
-          "videoUrl": "https://example.com/videos/video_86.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 86."
       },
       {
           "title": "Video 87",
-          "videoUrl": "https://example.com/videos/video_87.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 87."
       },
       {
           "title": "Video 88",
-          "videoUrl": "https://example.com/videos/video_88.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 88."
       },
       {
           "title": "Video 89",
-          "videoUrl": "https://example.com/videos/video_89.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 89."
       },
       {
           "title": "Video 90",
-          "videoUrl": "https://example.com/videos/video_90.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 90."
       },
       {
           "title": "Video 91",
-          "videoUrl": "https://example.com/videos/video_91.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 91."
       },
       {
           "title": "Video 92",
-          "videoUrl": "https://example.com/videos/video_92.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 92."
       },
       {
           "title": "Video 93",
-          "videoUrl": "https://example.com/videos/video_93.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 93."
       },
       {
           "title": "Video 94",
-          "videoUrl": "https://example.com/videos/video_94.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 94."
       },
       {
           "title": "Video 95",
-          "videoUrl": "https://example.com/videos/video_95.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 95."
       },
       {
           "title": "Video 96",
-          "videoUrl": "https://example.com/videos/video_96.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 96."
       },
       {
           "title": "Video 97",
-          "videoUrl": "https://example.com/videos/video_97.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 97."
       },
       {
           "title": "Video 98",
-          "videoUrl": "https://example.com/videos/video_98.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 98."
       },
       {
           "title": "Video 99",
-          "videoUrl": "https://example.com/videos/video_99.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 99."
       },
       {
           "title": "Video 100",
-          "videoUrl": "https://example.com/videos/video_100.mp4",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
           "description": "Description for Video 100."
       }
   ]
